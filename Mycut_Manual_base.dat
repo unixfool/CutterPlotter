@@ -1,0 +1,36 @@
+;Mycut Manual
+;of=0
+;cf=80
+BeginSettings:
+(BRANDNAME): (MODELNAME)	DirectComPort		DMPL	(WIDTHMM)	0	0	0	0	0	0	9.99999974737875E-5	0.200000002980232	2	0	0	2000	0	0	0	0	0	0	\\.\COM3,<baud=38400 flow=cts/rts parity=n data=8 stop=1>	0	0	0		
+EndSettings:
+BeginPlotter:
+0	(BRANDNAME)	(MODELNAME)	(WIDTHMM)	0	0	HPGL	HPGL	0	0,0,0,0,0,	0,0,0,0,0,	0,0,0,0,0,	0	(CMDFLAGS)					 	;:H A L0 ECN U U0,0;U0,0;	U0,0;	U%.0f,%.0f;	U%.0f,%.0f;D%.0f,%.0f;U;	-22.6000003814697	17.1000003814697	
+EndPlotter:
+BeginEmulation:
+EN=DMPL
+MR=0
+LR=0
+PR=0
+MC=U%.0f,%.0f;
+LC=D%.0f,%.0f;
+PC=D%.0f,%.0f;
+LE=
+PU=U;
+PD=D;
+FC=
+SC=V%.0f;
+UC=
+PM=
+CM=
+FD=
+HE=;:H A L0 ECN U U0,0;U0,0;
+FO=@;@ 
+PG=
+XU=40
+YU=40
+FU=40
+BeginMacros
+Test_Area=;:H A L0 ECN U U0,0;U(MAXFIXED);D(MAXFIXED1);U0,0;U(MAXFREE);D(MAXFREE1);U0,0;@;@
+EndMacros
+EndEmulation:

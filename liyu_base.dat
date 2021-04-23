@@ -1,0 +1,38 @@
+;of=0
+;cf=144
+;Liyu
+BeginSettings:
+(BRANDNAME): (MODELNAME)	DIRECTCOMPORT		HPGL	(WIDTHMM)	0	0	0	0	0	0	0.00100000004749745	0.25	2	0	0	0	0	0	0	0	0	0	\\.\COM3,<baud=9600 flow=cts/rts parity=n data=8 stop=1>	0	0	0	
+EndSettings:
+BeginPlotter:
+0	(BRANDNAME)	(MODELNAME)	(WIDTHMM)	0	0	HPGL	HPGL	0	0,0,0,0,0,	0,0,0,0,0,	0,0,0,0,0,	0	(CMDFLAGS)										0	0	
+EndPlotter:
+BeginEmulation:
+EN=TEST_T1
+MR=0
+LR=0
+PR=0
+MC=UU%.0f,%.0f;
+LC=D%.0f,%.0f;
+PC=%.0f,%.0f;
+LE=
+PU=U
+PD=D
+FC=
+SC=VS%.0f;
+UC=
+PM=
+CM=
+FD=U(FREELENGTH),0; U F @/_
+HE=;IN;(SPEED)(FORCE)
+FO=(FEED)U F U @
+PG=
+XU=40
+YU=40
+FU=1
+BeginMacros
+Test_Area=;IN;UU(MAXFREE);D(MAXFREE1);UU0,0;UU(MAXFIXED);D(MAXFIXED1);UU0,0;U F U @
+Width_Test=;IN;UU0,0;UU(MAXFIXED);D(MAXFIXED1);UU0,0;U F U @
+Reset=!PG;
+EndMacros
+EndEmulation:

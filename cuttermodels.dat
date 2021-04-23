@@ -1,0 +1,997 @@
+CTK-1350	COTEK_Man_Base	COTEK	1350	1265	80
+CTK-1100	COTEK_Man_Base	COTEK	1100	1085	80
+CTK-870	COTEK_Man_Base	COTEK	870	840	80
+CTK-720	COTEK_Man_Base	COTEK	720	720	80
+CTK-360	COTEK_Man_Base	COTEK	360	415	80
+
+CTKZD-1350	jkmm_base	COTEK	CTKZD-1350	1265	96
+CTKZD-720	jkmm_base	COTEK	CTKZD-720	720	96
+CTKZD-360	jkmm_base	COTEK	CTKZD-360	415	96
+
+YD-1350	COTEK_Man_Base	COTEK	YD-1350	1265	80
+YD-1100	COTEK_Man_Base	COTEK	YD-1100	1085	80
+YD-870	COTEK_Man_Base	COTEK	YD-870	840	80
+YD-720	COTEK_Man_Base	COTEK	YD-720	720	80
+YD-360	COTEK_Man_Base	COTEK	YD-360	415	80
+
+Kingcut ARMS Test	creation_base2	Kingcut	ARMS Test	630	112
+
+Kingcut CT630H	creation_base1	Kingcut	CT630H	630	214
+Kingcut CT1200H	creation_base1	Kingcut	CT120H	1200	214
+Kingcut CA630H	creation_base1	Kingcut	CA630H	630	214
+Kingcut CA1200H	creation_base1	Kingcut	CA1200	1200	214
+Kingcut CB630	creation_base1	Kingcut	CB630	630	214
+Kingcut CB1200	creation_base1	Kingcut	CB1200	1200	214
+Kingcut CF630	creation_base1	Kingcut	CF630	630	214
+Kingcut CF1200	creation_base1	Kingcut	CF1200	1200	214
+Fenta RS360	redsail_base	Fenta	RS360	360	80
+Fenta RS450	redsail_base	Fenta	RS450	450	80
+Fenta RS500	redsail_base	Fenta	RS500	500	80
+Fenta RS720	redsail_base	Fenta	RS720	720	80
+Fenta RS800	redsail_base	Fenta	RS800	800	80
+Fenta RS1120	redsail_base	Fenta	RS1120	1120	80
+Fenta RS1360	redsail_base	Fenta	RS1360	1360	80
+Fenta RS1600	redsail_base	Fenta	RS1600	1600	80
+
+Fenta SL440	teneth_manual_base	Fenta	SL440	335	80
+Fenta SL740	teneth_manual_base	Fenta	SL740	635	80
+Fenta SL1300	teneth_manual_base	Fenta	SL1300	1300	80
+Fenta SL1600	teneth_manual_base	Fenta	SL1300	1600	80
+
+
+
+C12	FZ_CX_base	FOISON	C12	305	87
+C24	FZ_CX_base	FOISON	C24	610	87
+C48	FZ_CX_base	FOISON	C48	1220	87
+C60	FZ_CX_base	FOISON	C60	1524	87
+					
+C12 Pro (AutoMark)	FZ_ARMS2_base	FOISON	C12 Pro AutoMark	305	119
+C24 Pro (AutoMark)	FZ_ARMS2_base	FOISON	C24 Pro AutoMark	610	119
+C48 Pro (AutoMark)	FZ_ARMS2_base	FOISON	C48 Pro AutoMark	1220	119
+C60 Pro (AutoMark)	FZ_ARMS2_base	FOISON	C60 Pro AutoMark	1524	119
+
+C12 Pro (MultiMark)	FZ_MM_base	FOISON	C12 Pro MultiMark	305	96
+C24 Pro (MultiMark)	FZ_MM_base	FOISON	C24 Pro MultiMark	610	96
+C48 Pro (MultiMark)	FZ_MM_base	FOISON	C48 Pro MultiMark	1200	96
+C60 Pro (MultiMark)	FZ_MM_base	FOISON	C60 Pro MultiMark	1530	96
+
+A12 (MultiMark)	FZ_MM_base	ICUTTER	A12 MultiMark	305	96
+A24 (MultiMark)	FZ_MM_base	ICUTTER	A24 MultiMark	610	96
+A48 (MultiMark)	FZ_MM_base	ICUTTER	A48 MultiMark	1200	96
+A60 (MultiMark)	FZ_MM_base	ICUTTER	A60 MultiMark	1530	96
+					
+S12 Pro (AutoMark)	FZ_SPAML2_base	FOISON	S12 Pro AutoMark	305	112
+S24 Pro (AutoMark)	FZ_SPAML2_base	FOISON	S24 Pro AutoMark	610	112
+S48 Pro (AutoMark)	FZ_SPAML2_base	FOISON	S48 Pro AutoMark	1220	112
+S60 Pro (AutoMark)	FZ_SPAML2_base	FOISON	S60 Pro AutoMark	1524	112
+
+V12	FZ_CX_base	ICUTTER	V12	305	87
+V24	FZ_CX_base	ICUTTER	V24	610	87
+V48	FZ_CX_base	ICUTTER	V48	1220	87
+V60	FZ_CX_base	ICUTTER	V60	1524	87
+					
+V12 Pro (AutoMark)	FZ_ARMS2_base	ICUTTER	V12 Pro AutoMark	305	119
+V24 Pro (AutoMark)	FZ_ARMS2_base	ICUTTER	V24 Pro AutoMark	610	119
+V48 Pro (AutoMark)	FZ_ARMS2_base	ICUTTER	V48 Pro AutoMark	1220	119
+V60 Pro (AutoMark)	FZ_ARMS2_base	ICUTTER	V60 Pro AutoMark	1524	119
+
+V12 Pro (MultiMark)	FZ_MM_base	ICUTTER	V12 Pro MultiMark	305	96
+V24 Pro (MultiMark)	FZ_MM_base	ICUTTER	V24 Pro MultiMark	610	96
+V48 Pro (MultiMark)	FZ_MM_base	ICUTTER	V48 Pro MultiMark	1200	96
+V60 Pro (MultiMark)	FZ_MM_base	ICUTTER	V60 Pro MultiMark	1530	96
+
+
+
+
+
+
+C12	FZ_CX_base	FOISON	C12	305	87
+C24	FZ_CX_base	FOISON	C24	610	87
+C48	FZ_CX_base	FOISON	C48	1220	87
+C60	FZ_CX_base	FOISON	C60	1524	87
+					
+C12 Pro (AutoMark)	FZ_ARMS2_base	FOISON	C12 Pro AutoMark	305	119
+C24 Pro (AutoMark)	FZ_ARMS2_base	FOISON	C24 Pro AutoMark	610	119
+C48 Pro (AutoMark)	FZ_ARMS2_base	FOISON	C48 Pro AutoMark	1220	119
+C60 Pro (AutoMark)	FZ_ARMS2_base	FOISON	C60 Pro AutoMark	1524	119
+
+C12 Pro (MultiMark)	FZ_MM_base	FOISON	C12 Pro MultiMark	305	96
+C24 Pro (MultiMark)	FZ_MM_base	FOISON	C24 Pro MultiMark	610	96
+C48 Pro (MultiMark)	FZ_MM_base	FOISON	C48 Pro MultiMark	1200	96
+C60 Pro (MultiMark)	FZ_MM_base	FOISON	C60 Pro MultiMark	1530	96
+
+A12 (MultiMark)	FZ_MM_base	ICUTTER	A12 MultiMark	305	96
+A24 (MultiMark)	FZ_MM_base	ICUTTER	A24 MultiMark	610	96
+A48 (MultiMark)	FZ_MM_base	ICUTTER	A48 MultiMark	1200	96
+A60 (MultiMark)	FZ_MM_base	ICUTTER	A60 MultiMark	1530	96
+					
+S12 Pro (AutoMark)	FZ_SPAML2_base	FOISON	S12 Pro AutoMark	305	112
+S24 Pro (AutoMark)	FZ_SPAML2_base	FOISON	S24 Pro AutoMark	610	112
+S48 Pro (AutoMark)	FZ_SPAML2_base	FOISON	S48 Pro AutoMark	1220	112
+S60 Pro (AutoMark)	FZ_SPAML2_base	FOISON	S60 Pro AutoMark	1524	112
+					
+
+
+V12	FZ_CX_base	ICUTTER	V12	305	87
+V24	FZ_CX_base	ICUTTER	V24	610	87
+V48	FZ_CX_base	ICUTTER	V48	1220	87
+V60	FZ_CX_base	ICUTTER	V60	1524	87
+					
+V12 Pro (AutoMark)	FZ_ARMS2_base	ICUTTER	V12 Pro AutoMark	305	119
+V24 Pro (AutoMark)	FZ_ARMS2_base	ICUTTER	V24 Pro AutoMark	610	119
+V48 Pro (AutoMark)	FZ_ARMS2_base	ICUTTER	V48 Pro AutoMark	1220	119
+V60 Pro (AutoMark)	FZ_ARMS2_base	ICUTTER	V60 Pro AutoMark	1524	119
+
+V12 Pro (MultiMark)	FZ_MM_base	ICUTTER	V12 Pro MultiMark	305	96
+V24 Pro (MultiMark)	FZ_MM_base	ICUTTER	V24 Pro MultiMark	610	96
+V48 Pro (MultiMark)	FZ_MM_base	ICUTTER	V48 Pro MultiMark	1200	96
+V60 Pro (MultiMark)	FZ_MM_base	ICUTTER	V60 Pro MultiMark	1530	96
+					
+A12 (MultiMark)	FZ_MM_base	ICUTTER	A12 MultiMark	305	96
+A24 (MultiMark)	FZ_MM_base	ICUTTER	A24 MultiMark	610	96
+A48 (MultiMark)	FZ_MM_base	ICUTTER	A48 MultiMark	1200	96
+A60 (MultiMark)	FZ_MM_base	ICUTTER	A60 MultiMark	1530	96
+					
+S12 Pro (AutoMark)	FZ_SPAML2_base	ICUTTER	S12 Pro AutoMark	305	112
+S24 Pro (AutoMark)	FZ_SPAML2_base	ICUTTER	S24 Pro AutoMark	610	112
+S48 Pro (AutoMark)	FZ_SPAML2_base	ICUTTER	S48 Pro AutoMark	1220	112
+S60 Pro (AutoMark)	FZ_SPAML2_base	ICUTTER	S60 Pro AutoMark	1524	112
+					
+GCC RX61	GCC_V1_Base	GCC	RX61	610	59	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC RX101	GCC_V1_Base	GCC	RX101	1010	59	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC RX132	GCC_V1_Base	GCC	RX132	1320	59	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC RX183	GCC_V1_Base	GCC	RX183	1830	59	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC Jaguar IV 61	GCC_V1_Base	GCC	Jaguar IV 61	610	59	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC Jaguar IV 101	GCC_V1_Base	GCC	Jaguar IV 101	1010	59	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC Jaguar IV 132	GCC_V1_Base	GCC	Jaguar IV 132	1320	59	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC Jaguar IV 183	GCC_V1_Base	GCC	Jaguar IV 183	1830	59	1,120,40,5,0,g	3,51,24,3,0,cm/s
+
+GCC i-Craft	GCC_V1_ICRAFT_Base	GCC	i-Craft	300	59	1,70,40,5,0,g	3,10,7,3,0,cm/s
+
+GCC Expert 24 LX	GCC_V1_Base	GCC	Expert 24 LX	600	59	1,50,40,5,0,g	3,13,10,3,0,cm/s
+GCC Expert 52 LX	GCC_V1_Base	GCC	Expert 52 LX	1320	59	1,50,40,5,0,g	3,13,10,3,0,cm/s
+GCC Expert II 52 LX	GCC_V1_Base	GCC	Expert II 52 LX	1320	59	1,70,40,5,0,g	3,15,10,3,0,cm/s
+GCC Expert II 24 LX	GCC_V1_Base	GCC	Expert II 24 LX	600	59	1,70,40,5,0,g	3,17,10,3,0,cm/s
+GCC Puma III 60	GCC_V1_Base	GCC	Puma III 60	600	59	1,80,40,5,0,g	3,20,10,3,0,cm/s
+GCC Puma III 132	GCC_V1_Base	GCC	Puma III 132	1320	59	1,80,40,5,0,g	3,20,10,3,0,cm/s
+GCC RX II 61	GCC_V2_Base	GCC	RX II 61	610	59	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC RX II 101	GCC_V2_Base	GCC	RX II 101	1010	59	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC RX II 132	GCC_V2_Base	GCC	RX II 132	1320	59	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC RX II 183	GCC_V2_Base	GCC	RX II 183	1830	59	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC Jaguar V 61 LX	GCC_V2_Base	GCC	Jaguar V 61 LX	610	59	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC Jaguar V 101 LX	GCC_V2_Base	GCC	Jaguar V 101 LX	1010	59	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC Jaguar V 132 LX	GCC_V2_Base	GCC	Jaguar V 132 LX	1320	59	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC Jaguar V 183 LX	GCC_V2_Base	GCC	Jaguar V 183 LX	1830	59	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC Puma IV 60 LX	GCC_V2_Base	GCC	Puma IV 60 LX	600	59	1,100,40,5,0,g	3,24,10,3,0,cm/s
+GCC Puma IV 132 LX	GCC_V2_Base	GCC	Puma IV 132 LX	1320	59	1,100,40,5,0,g	3,24,10,3,0,cm/s
+GCC Jaguar II 61	GCC_V0_Base	GCC	Jaguar II 61	610	27	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC Jaguar II 101	GCC_V0_Base	GCC	Jaguar II 101	1010	27	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC Jaguar II 132	GCC_V0_Base	GCC	Jaguar II 132	1320	27	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC Jaguar V 61	GCC_V0_Base	GCC	Jaguar V 61	610	27	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC Jaguar V 101	GCC_V0_Base	GCC	Jaguar V 101	1010	27	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC Jaguar V 132	GCC_V0_Base	GCC	Jaguar V 132	1320	27	1,120,40,5,0,g	3,51,24,3,0,cm/s
+GCC Expert 24	GCC_V0_Base	GCC	Expert 24	600	27	1,50,40,5,0,g	3,13,10,3,0,cm/s
+GCC Expert 52	GCC_V0_Base	GCC	Expert 52	1320	27	1,50,40,5,0,g	3,13,10,3,0,cm/s
+GCC AR-24	GCC_V0_Base	GCC	AR-24	600	27	1,50,40,5,0,g	3,13,10,3,0,cm/s
+GCC Expert II 52	GCC_V0_Base	GCC	Expert II 52	1320	27	1,70,40,5,0,g	3,15,10,3,0,cm/s
+GCC Expert II 24	GCC_V0_Base	GCC	Expert II 24	600	27	1,70,40,5,0,g	3,17,10,3,0,cm/s
+GCC Expert Pro 60	GCC_V0_Base	GCC	Expert Pro 60	600	27	1,80,40,5,0,g	3,20,10,3,0,cm/s
+GCC Expert Pro 132	GCC_V0_Base	GCC	Expert Pro 132	1320	27	1,80,40,5,0,g	3,20,10,3,0,cm/s
+GCC Expert Pro II 60	GCC_V0_Base	GCC	Expert Pro II 60	600	27	1,100,40,5,0,g	3,24,10,3,0,cm/s
+GCC Expert Pro II 132	GCC_V0_Base	GCC	Expert Pro II 132	1320	27	1,100,40,5,0,g	3,24,10,3,0,cm/s
+Helitin 500	helitin_arms_base2	Helitin	500	310	80
+Helitin 720	helitin_arms_base2	Helitin	720	600	80
+Helitin 1350	helitin_arms_base2	Helitin	1350	1200	80
+Helitin 1750	helitin_arms_base2	Helitin	1750	1600	80
+
+Helitin A500	helitin_arms_base2	Helitin	A500	310	48
+Helitin A720	helitin_arms_base2	Helitin	A720	600	48
+Helitin A1350	helitin_arms_base2	Helitin	A1350	1200	48
+Helitin A1750	helitin_arms_base2	Helitin	A1750	1600	48
+
+Helitin A500D	jkmm_base	Helitin	A500D	310	96
+Helitin A720D	jkmm_base	Helitin	A720D	600	96
+Helitin A1350D	jkmm_base	Helitin	A1350D	1200	96
+Helitin A1750D	jkmm_base	Helitin	A1750D	1600	96
+iTransfer IC-A	Liyu_A04a_Base	iTransfer	IC-A	1260	112
+iTransfer IC-A Multipoint Mark	Liyu_MM_base	iTransfer	IC-A Multipoint Mark	1260	112
+JinKa GC-24	jinka_gc_base2	JinKa	GC-24	650	208
+JinKa GC-48	jinka_gc_base2	JinKa	GC-48	1220	208
+					
+JinKa JK-240	jinka_jk_base2	JinKa	JK-240	210	208
+JinKa JK-330	jinka_jk_base2	JinKa	JK-330	297	208
+JinKa JK-365	jinka_jk_base2	JinKa	JK-365	275	208
+JinKa JK-721	jinka_jk_base2	JinKa	JK-721	630	208
+JinKa JK-871	jinka_jk_base2	JinKa	JK-871	780	208
+JinKa JK-1101	jinka_jk_base2	JinKa	JK-1101	1010	208
+JinKa JK-1351	jinka_jk_base2	JinKa	JK-1351	1260	208
+					
+JinKa JK-24ABJ	jinka_gc_base2mm	JinKa	JK-24 721ABJ	630	96
+JinKa JK-48ABJ	jinka_gc_base2mm	JinKa	JK-48 1351ABJ	1240	96
+JinKa JK-24ASF	jinka_gc_base2mm	JinKa	JK-24ASF	630	96
+JinKa JK-48ASF	jinka_gc_base2mm	JinKa	JK-48ASF	1200	96
+JinKa YS-15ABJ	jinka_gc_base2mm	JinKa	JK-15ABJ	326	96
+jinKa-ARMS V3	jinka_gc_base2mm	JinKa	JK-ARMS V3	1260	96
+KASA K365	jinka_base2	KASA	K365	275	208
+KASA K725	jinka_base2	KASA	K725	630	208
+KASA K1355	jinka_base2	KASA	K1355	1260	208
+KEN810	saga_base	Kenstar	810	710	80
+KEN1000	saga_base	Kenstar	1000	880	80
+KEN1120	saga_base	Kenstar	1120	1020	80
+KEN1380	saga_base	Kenstar	1380	1260	80
+KEN1730	saga_base	Kenstar	1730	1600	80
+Kingcut CT630H	kingcut_Manual_base	Kingcut	CT630H	630	16
+Kingcut CT900H	kingcut_Manual_base	Kingcut	CT900H	900	16
+Kingcut CT1200H	kingcut_Manual_base	Kingcut	CT1200H	1200	86
+Kingcut CT630H- ARMS	kincut_ARMS_base	Kingcut	CT630H- ARMS	630	120
+Kingcut CT900H- ARMS	kincut_ARMS_base	Kingcut	CT900H- ARMS	900	120
+Kingcut CT1200H-ARMS	kincut_ARMS_base	Kingcut	CT1200H-ARMS	1200	120
+King Rabbit HX-1120G	rabbit_base1	King Rabbit	HX-1120G	1120	214
+King Rabbit HX-1360G	rabbit_base1	King Rabbit	HX-1360G	1360	214
+King Rabbit HX-1360K	rabbit_base1	King Rabbit	HX-1360K	1360	214
+King Rabbit HX1360N	rabbit_base1	King Rabbit	HX1360N	1360	214
+King Rabbit HX-1780K	rabbit_base1	King Rabbit	HX-1780K	1780	214
+King Rabbit HX-720G	rabbit_base1	King Rabbit	HX-720G	720	214
+King Rabbit HX-720N	rabbit_base1	King Rabbit	HX-720N	720	214
+King Rabbit HX-800G	rabbit_base1	King Rabbit	HX-800G	800	214
+King Rabbit HX-800K	rabbit_base1	King Rabbit	HX-800K	800	214
+King Rabbit HX-800N	rabbit_base1	King Rabbit	HX-800N	800	214
+King Rabbit HX-960N	rabbit_base1	King Rabbit	HX-960N	960	214
+Liyu TC-AA ARMS	Liyu_MM_base	Liyu	TC-AA ARMS	1260	96
+Liyu DC-AF ARMS	Liyu_MM_base	Liyu	DC-AF ARMS	1260	96
+Liyu HC-AF ARMS	Liyu_MM_base	Liyu	HC-AF ARMS	1260	96
+
+Liyu TC-AA	Liyu_A04a_Base	Liyu	TC-AA	1260	112
+Liyu DC-AF	Liyu_A04a_Base	Liyu	DC-AF	1260	112
+Liyu HC-AF	Liyu_A04a_Base	Liyu	HC-AF	1260	112
+
+Liyu LY-TA	Liyu_A05a_base	Liyu	LY-TA	1260	112
+
+Liyu SC-AM	Liyu_A06V2m_base	Liyu	SC-AM	1260	48
+Liyu SC-A	Liyu_A06V2m_base	Liyu	SC-A	1260	48
+
+Liyu TC 	Liyu_A04a_38400_Base	Liyu	TC 	1260	112
+Liyu MC	Liyu_A04a_38400_Base	Liyu	MC	1260	112
+Liyu SC	Liyu_A04a_9600_Base	Liyu	SC	1260	112
+Liyu HF	Liyu_A04a_9600_Base	Liyu	HF	1260	112
+MKCUTTER MH1200	mika_base	MKCUTTER	MH1200	1200	1104
+MKCUTTER MH900	mika_base	MKCUTTER	MH900	900	1104
+MKCUTTER MH630	mika_base	MKCUTTER	MH630	630	1104
+
+MKCUTTER MK1200	mika_mk_base	MKCUTTER	MK1200	1200	1104
+MKCUTTER MK900	mika_mk_base	MKCUTTER	MK900	900	1104
+MKCUTTER MK630	mika_mk_base	MKCUTTER	MK630	630	1104
+
+MKCUTTER MG1200	mika_base	MKCUTTER	MG1200	1200	1104
+MKCUTTER MG900	mika_base	MKCUTTER	MG900	900	1104
+MKCUTTER MG630	mika_base	MKCUTTER	MG630	630	1104
+
+MKCUTTER MF1200	mika_base	MKCUTTER	MF1200	1200	1104
+MKCUTTER MF900	mika_base	MKCUTTER	MF900	900	1104
+MKCUTTER MF630	mika_base	MKCUTTER	MF630	630	1104
+
+
+MKCUTTER MX1200	jkmm_base	MKCUTTER	MX1200	1200	96
+MKCUTTER MX900	jkmm_base	MKCUTTER	MX900	900	96
+MKCUTTER MX630	jkmm_base	MKCUTTER	MX630	630	96
+MKCUTTER MS1200	jkmm_base	MKCUTTER	MS1200	1200	96
+MKCUTTER MS900	jkmm_base	MKCUTTER	MS900	900	96
+MKCUTTER MS630	jkmm_base	MKCUTTER	MS630	630	96
+
+
+Moritzu MZ-EC30	COTEK_Man_Base	Moritzu	MZ-EC30	297	80
+Moritzu MZ-EC63	COTEK_Man_Base	Moritzu	MZ-EC63	630	80
+Moritzu MZ-EC125	COTEK_Man_Base	Moritzu	MZ-EC125	1250	80
+Moritzu MZ4-20	COTEK_Man_Base	Moritzu	MZ4-20	297	80
+Moritzu MZ4-35	COTEK_Man_Base	Moritzu	MZ4-35	630	80
+Moritzu MZ4-55	COTEK_Man_Base	Moritzu	MZ4-55	1250	80
+Moritzu UC-300E	COTEK_Man_Base	Moritzu	UC-300E	297	80
+Moritzu UC-700E	COTEK_Man_Base	Moritzu	UC-700E	630	80
+Moritzu UC-1350E	COTEK_Man_Base	Moritzu	UC-1350E	1250	80
+Moritzu UC-300EG	COTEK_Man_Base	Moritzu	UC-300EG	297	80
+Moritzu UC-700EG	COTEK_Man_Base	Moritzu	UC-700EG	630	80
+Moritzu UC-1350EG	COTEK_Man_Base	Moritzu	UC-1350EG	1250	80
+Moritzu MEX-350	COTEK_Man_Base	Moritzu	MEX-350	297	80
+Moritzu MEX-750	COTEK_Man_Base	Moritzu	MEX-750	630	80
+Moritzu MEX-1500	COTEK_Man_Base	Moritzu	MEX-1500	1250	80
+Moritzu GR-390	COTEK_Man_Base	Moritzu	GR-390	297	80
+Moritzu GR-790	COTEK_Man_Base	Moritzu	GR-790	630	80
+Moritzu GR-1390	COTEK_Man_Base	Moritzu	GR-1390	1250	80
+Moritzu TIT-700	COTEK_Man_Base	Moritzu	TIT-700	630	80
+Moritzu TIT-1500	COTEK_Man_Base	Moritzu	TIT-1500	1250	80
+Mycut MG1500	Mycut_ARMS_base	Mycut	MG1500	1500	240
+Mycut MG1200	Mycut_ARMS_base	Mycut	MG1200	1200	240
+Mycut MG630	Mycut_ARMS_base	Mycut	MG630	630	240
+Mycut MG330	Mycut_ARMS_base	Mycut	MG330	330	240
+
+Mycut MH1500	Mycut_Manual_base	Mycut	MH1500	1500	80
+Mycut MH1200	Mycut_Manual_base	Mycut	MH1200	1200	80
+Mycut MH630	Mycut_Manual_base	Mycut	MH630	630	80
+Mycut MH330	Mycut_Manual_base	Mycut	MH330	330	80
+
+Mycut MS1500	Mycut_Manual_base	Mycut	MS1500	1500	80
+Mycut MS1200	Mycut_Manual_base	Mycut	MS1200	1200	80
+Mycut MS630	Mycut_Manual_base	Mycut	MS630	630	80
+
+Mycut MS1500G	Mycut_ARMS_base	Mycut	MS1500G	1500	240
+Mycut MS1200G	Mycut_ARMS_base	Mycut	MS1200G	1200	240
+Mycut MS630G	Mycut_ARMS_base	Mycut	MS630G	630	240
+
+Mycut MK1500	Mycut_Manual_base	Mycut	MK1500	1500	80
+Mycut MK1200	Mycut_Manual_base	Mycut	MK1200	1200	80
+Mycut MK630	Mycut_Manual_base	Mycut	MK630	630	80
+Mycut MK330	Mycut_Manual_base	Mycut	MK330	330	80
+
+MyCut MG1500M	jkmm_base	Mycut	MG1500M	1500	96
+MyCut MG1200M	jkmm_base	Mycut	MG1200M	1200	96
+MyCut MG630M	jkmm_base	Mycut	MG630M	630	96
+MyCut MG330M	jkmm_base	Mycut	MG330M	330	96
+Refine ART-360	jinka_gc_base2	Refine	ART-360	326	240
+Refine DC240	jinka_jk_base2	Refine	DC240	210	208
+					
+Refine DC330	jinka_jk_base2	Refine	DC330	297	208
+Refine EH/MH365	jinka_jk_base2	Refine	EH/MH365	275	208
+Refine EH/MH721	jinka_jk_base2	Refine	EH/MH721	630	208
+Refine EH/MH871	jinka_jk_base2	Refine	EH/MH871	780	208
+Refine EH/MH1351	jinka_jk_base2	Refine	EH/MH1351	1260	208
+Refine LH721-ARMS (Manual)	jinka_jk_base2	Refine	LH721-ARMS (Manual)	630	208
+Refine LH1351-ARMS (Manual)	jinka_jk_base2	Refine	LH1351-ARMS (Manual)	1260	208
+Refine ARMS-1351	jkmm_base	Refine	ARMS 1351	1260	96
+
+					
+HBC-720	jinka_gc_base2	HBC	720	630	240
+HBC-1350	jinka_gc_base2	HBC	1350	1260	240
+HBC-720S	jinka_gc_base2	HBC	720S	630	240
+HBC-1350S	jinka_gc_base2	HBC	1350S	1260	240
+HBC-ARMS SC	jinka_gc_base2mm	HBC	ARMS 1350SC	1260	96
+
+
+Saga - 420 IIP (Servo) NEW ARMS+	saga2b_base	SAGA	420 IIP NEW ARMS+	330	307
+Saga - 720 IIP (Servo) NEW ARMS+	saga2b_base	SAGA	720 IIP NEW ARMS+	630	307
+Saga - 1350 IIP (Servo) NEW ARMS+	saga2b_base	SAGA	1350 IIP NEW ARMS+	1260	307
+Saga - 1750 IIP (Servo) NEW ARMS+	saga2b_base	SAGA	1750 IIP NEW ARMS+	1660	307
+
+Saga - 420 I (Stepper)	saga_base	SAGA	420 I	330	80
+Saga - 720 I (Stepper)	saga_base	SAGA	720 I	630	80
+Saga - 1350 I (Stepper)	saga_base	SAGA	1350 I	1260	80
+Saga - 1750 I (Stepper)	saga_base	SAGA	1750 I	1660	80
+
+Saga - 420 II (Servo)	saga_base	SAGA	420 II	330	80
+Saga - 720 II (Servo)	saga_base	SAGA	720 II	630	80
+Saga - 1350 II (Servo)	saga_base	SAGA	1350 II	1260	80
+Saga - 1750 II (Servo)	saga_base	SAGA	1750 II	1660	80
+
+Saga SG-1350B (Garment)	saga_base	SAGA	SG 1350B	1200	80
+Saga SG-1750B (Garment)	saga_base	SAGA	SG 1750B	1600	80
+Saga SG-1350P (Garment)	saga_base	SAGA	SG 1350P	1200	80
+Saga SG-1750P (Garment)	saga_base	SAGA	SG 1750P	1600	80
+Saga SG-1380P (Garment)	saga_base	SAGA	SG 1380P	1200	80
+Saga SG-1780P (Garment)	saga_base	SAGA	SG 1780P	1600	80
+SK375	seiki_manual2_base	SK	375	285	208
+SK720	seiki_manual2_base	SK	720	630	208
+SK870	seiki_manual2_base	SK	870	780	208
+SK1350	seiki_manual2_base	SK	1350	1260	208
+
+SK-M375	seiki_arms2_base	SK	M375	285	96
+SK-M720	seiki_arms2_base	SK	M720	630	96
+SK-M870	seiki_arms2_base	SK	M870	780	96
+SK-M1350	seiki_arms2_base	SK	M1350	1260	96
+Signkey SK720	sk_base	Signkey	SK720	620	1104
+Signkey SK850	sk_base	Signkey	SK850	750	1104
+Signkey SK1100	sk_base	Signkey	SK1100	1000	1104
+Signkey SK1350	sk_base	Signkey	SK1350	1250	1104
+Signkey SK1600	sk_base	Signkey	SK1600	1500	1104
+
+Signkey SK720H	sk_base	Signkey	SK720H	620	1104
+Signkey SK850H	sk_base	Signkey	SK850H	750	1104
+Signkey SK1100H	sk_base	Signkey	SK1100H	1000	1104
+Signkey SK1350H	sk_base	Signkey	SK1350H	1250	1104
+Signkey SK1600H	sk_base	Signkey	SK1600H	1500	1104
+
+Signkey SK-G720H	skg_base	Signkey	SK-G720H	620	96
+Signkey SK-G850H	skg_base	Signkey	SK-G850H	750	96
+Signkey SK-G1100H	skg_base	Signkey	SK-G1100H	1000	96
+Signkey SK-G1350H	skg_base	Signkey	SK-G1350H	1250	96
+Signkey SK-G1600H	skg_base	Signkey	SK-G1600H	1500	96
+SKYCUT C12	SkyCut_JKMM_base	SKYCUT	C12	310	119
+SKYCUT C16	SkyCut_JKMM_base	SKYCUT	C16	410	119
+SKYCUT C24	SkyCut_JKMM_base	SKYCUT	C24	630	119
+SKYCUT V24	SkyCut_JKMM_base	SKYCUT	V24	630	119
+SKYCUT V30 	SkyCut_JKMM_base	SKYCUT	V30	780	119
+SKYCUT V48	SkyCut_JKMM_base	SKYCUT	V48	1250	119
+SKYCUT V60	SkyCut_JKMM_base	SKYCUT	V60	1530	119
+SKYCUT D16	SkyCut_JKMM_base	SKYCUT	D16	410	119
+SKYCUT D24	SkyCut_JKMM_base	SKYCUT	D24	630	119
+SKYCUT D30	SkyCut_JKMM_base	SKYCUT	D30	780	119
+SKYCUT D48	SkyCut_JKMM_base	SKYCUT	D48	1250	119
+SKYCUT D60	SkyCut_JKMM_base	SKYCUT	D60	1530	119
+
+
+SKYCUT C12	SkyCut_JKMM_base	SKYCUT	C12	310	119
+SKYCUT C16	SkyCut_JKMM_base	SKYCUT	C16	410	119
+SKYCUT C24	SkyCut_JKMM_base	SKYCUT	C24	630	119
+SKYCUT V24	SkyCut_JKMM_base	SKYCUT	V24	630	119
+SKYCUT V30 	SkyCut_JKMM_base	SKYCUT	V30	780	119
+SKYCUT V48	SkyCut_JKMM_base	SKYCUT	V48	1250	119
+SKYCUT V60	SkyCut_JKMM_base	SKYCUT	V60	1530	119
+SKYCUT D16	SkyCut_JKMM_base	SKYCUT	D16	410	119
+SKYCUT D24	SkyCut_JKMM_base	SKYCUT	D24	630	119
+SKYCUT D30	SkyCut_JKMM_base	SKYCUT	D30	780	119
+SKYCUT D48	SkyCut_JKMM_base	SKYCUT	D48	1250	119
+SKYCUT D60	SkyCut_JKMM_base	SKYCUT	D60	1530	119
+
+
+MOMO MM-CAH12	SkyCut_JKMM_base	MOMO	MM-CAH12	310	119
+MOMO MM-CAH16	SkyCut_JKMM_base	MOMO	MM-CAH16	410	119
+MOMO MM-CAH24	SkyCut_JKMM_base	MOMO	MM-CAH24	630	119
+MOMO MM-VAH24	SkyCut_JKMM_base	MOMO	MM-VAH24	630	119
+MOMO MM-VAH30	SkyCut_JKMM_base	MOMO	MM-VAH30	780	119
+MOMO MM-VAH48	SkyCut_JKMM_base	MOMO	MM-VAH48	1250	119
+MOMO MM-VAH60	SkyCut_JKMM_base	MOMO	MM-VAH60	1530	119
+MOMO MM-VAD16	SkyCut_JKMM_base	MOMO	MM-VAD16	410	119
+MOMO MM-VAD24	SkyCut_JKMM_base	MOMO	MM-VAD24	630	119
+MOMO MM-VAD30	SkyCut_JKMM_base	MOMO	MM-VAD30	780	119
+MOMO MM-VAD48	SkyCut_JKMM_base	MOMO	MM-VAD48	1250	119
+MOMO MM-VAD60	SkyCut_JKMM_base	MOMO	MM-VAD60	1530	119
+
+
+Camera C12	SkyCut_JKMM_base	Camera	C12	310	119
+Camera C16	SkyCut_JKMM_base	Camera	C16	410	119
+Camera C24	SkyCut_JKMM_base	Camera	C24	630	119
+Camera V24	SkyCut_JKMM_base	Camera	V24	630	119
+Camera V30	SkyCut_JKMM_base	Camera	V30	780	119
+Camera V48	SkyCut_JKMM_base	Camera	V48	1250	119
+Camera V60	SkyCut_JKMM_base	Camera	V60	1530	119
+Camera D16	SkyCut_JKMM_base	Camera	D16	410	119
+Camera D24	SkyCut_JKMM_base	Camera	D24	630	119
+Camera D30	SkyCut_JKMM_base	Camera	D30	780	119
+Camera D48	SkyCut_JKMM_base	Camera	D48	1250	119
+Camera D60	SkyCut_JKMM_base	Camera	D60	1530	119
+
+
+YITU CA12	SkyCut_JKMM_base	YITU	CA12	310	119
+YITU CA16	SkyCut_JKMM_base	YITU	CA16	410	119
+YITU CA24	SkyCut_JKMM_base	YITU	CA24	630	119
+YITU VA24	SkyCut_JKMM_base	YITU	VA24	630	119
+YITU VA30 	SkyCut_JKMM_base	YITU	VA30	780	119
+YITU VA48	SkyCut_JKMM_base	YITU	VA48	1250	119
+YITU VA60	SkyCut_JKMM_base	YITU	VA60	1530	119
+YITU DA16	SkyCut_JKMM_base	YITU	DA16	410	119
+YITU DA24	SkyCut_JKMM_base	YITU	DA24	630	119
+YITU DA30	SkyCut_JKMM_base	YITU	DA30	780	119
+YITU DA48	SkyCut_JKMM_base	YITU	DA48	1250	119
+YITU DA60	SkyCut_JKMM_base	YITU	DA60	1530	119
+
+
+
+
+ROTUTEX C41	SkyCut_JKMM_base	ROTUTEX	C41	410	119
+ROTUTEX C63	SkyCut_JKMM_base	ROTUTEX	C63	630	119
+ROTUTEX V63	SkyCut_JKMM_base	ROTUTEX	V63	630	119
+ROTUTEX V126	SkyCut_JKMM_base	ROTUTEX	V126	1260	119
+ROTUTEX D55	SkyCut_JKMM_base	ROTUTEX	D55	550	119
+ROTUTEX D118	SkyCut_JKMM_base	ROTUTEX	D118	1180	119
+
+
+PURCELL S500	SkyCut_JKMM_base	PURCELL	S500	410	119
+PURCELL S720	SkyCut_JKMM_base	PURCELL	S720	630	119
+PURCELL SV730	SkyCut_JKMM_base	PURCELL	SV730	630	119
+PURCELL SV1350	SkyCut_JKMM_base	PURCELL	SV1350	1250	119
+PURCELL SV1600	SkyCut_JKMM_base	PURCELL	SV1600	1500	119
+PURCELL SG500	SkyCut_JKMM_base	PURCELL	SG500	410	119
+PURCELL SG720	SkyCut_JKMM_base	PURCELL	SG720	630	119
+PURCELL SF730	SkyCut_JKMM_base	PURCELL	SF730	630	119
+PURCELL SF1350	SkyCut_JKMM_base	PURCELL	SF1350	1250	119
+PURCELL SF1600	SkyCut_JKMM_base	PURCELL	SF1600	1500	119
+Teneth G24L	teneth_manual_base	Teneth	G24L	635	80
+Teneth G48L	teneth_manual_base	Teneth	G48L	1250	80
+Teneth G59L	teneth_manual_base	Teneth	G59L	1550	80
+Teneth T24A	teneth_mm_base	Teneth	T24A	635	112
+Teneth T24L	teneth_manual_base	Teneth	T24L	635	80
+Teneth T48A	teneth_mm_base	Teneth	T48A	1250	112
+Teneth T48L	teneth_manual_base	Teneth	T48L	1250	80
+Teneth T59A	teneth_mm_base	Teneth	T59A	1550	112
+Teneth T59L	teneth_manual_base	Teneth	T59L	1550	80
+
+Teneth TH1300A	teneth_mm_base	Teneth	TH1300A	1250	112
+Teneth TH1300L	teneth_manual_base	Teneth	TH1300L	1250	80
+Teneth TH1600A	teneth_mm_base	Teneth	TH1600A	1550	112
+Teneth TH440A	teneth_mm_base	Teneth	TH440A	335	112
+Teneth TH440L	teneth_manual_base	Teneth	TH440L	335	80
+Teneth TH740A	teneth_mm_base	Teneth	TH740A	635	112
+Teneth TH740L	teneth_manual_base	Teneth	TH740L	635	80
+Teneth TK1350	teneth_manual_base	Teneth	TK1350	1250	80
+Teneth TK1350A	teneth_mm_base	Teneth	TK1350A	1250	112
+Teneth TK740	teneth_manual_base	Teneth	TK740	635	80
+Teneth TK740A	teneth_mm_base	Teneth	TK740A	635	112
+Teneth TN1350	teneth_manual_base	Teneth	TN1350	1250	80
+Teneth TN1350A	teneth_mm_base	Teneth	TN1350A	1250	112
+Teneth TN740	teneth_manual_base	Teneth	TN740	630	80
+Teneth TN740A	teneth_mm_base	Teneth	TN740A	630	112
+
+AM.CO.ZA V-Smart V3-740	teneth_manual_base	AM.CO.ZA	V-Smart V3-740	630	80
+AM.CO.ZA V-Smart V3-1310	teneth_manual_base	AM.CO.ZA	V-Smart V3-1310	1200	80
+AM.CO.ZA V-Smart V3-1660	teneth_manual_base	AM.CO.ZA	V-Smart V3-1660	1550	80
+
+AM.CO.ZA V-Smart V6-900  Auto	teneth_mm_base	AM.CO.ZA	V-Smart V6-900  Auto	740	112
+AM.CO.ZA V-Smart V6-1500 Auto	teneth_mm_base	AM.CO.ZA	V-Smart V6-1500 Auto	1340	112
+AM.CO.ZA V-Smart V6-1800 Auto	teneth_mm_base	AM.CO.ZA	V-Smart V6-1800 Auto	1640	112
+
+AZONColor CC12W	teneth_manual_base	AZONColor	CC12W	330	80
+AZONColor CC24W	teneth_manual_base	AZONColor	CC24W	630	80
+AZONColor CC48W	teneth_manual_base	AZONColor	CC48W	1200	80
+AZONColor CC64W	teneth_manual_base	AZONColor	CC64W	1550	80
+
+AZONColor CC24W Auto	teneth_mm_base	AZONColor	CC24W Auto	330	112
+AZONColor CC24W Auto	teneth_mm_base	AZONColor	CC24W Auto	630	112
+AZONColor CC48W Auto	teneth_mm_base	AZONColor	CC48W Auto	1200	112
+AZONColor CC64W Auto	teneth_mm_base	AZONColor	CC64W Auto	1550	112
+
+BannerCut Bannercut 30cm LD	teneth_manual_base	BannerCut	Bannercut 30cm LD	330	80
+BannerCut Bannercut 60cm LD	teneth_manual_base	BannerCut	Bannercut 60cm LD	630	80
+BannerCut Bannercut 130cm LD	teneth_manual_base	BannerCut	Bannercut 130cm LD	1200	80
+BannerCut Bannercut 160cm LD	teneth_manual_base	BannerCut	Bannercut 160cm LD	1550	80
+
+BannerCut Bannercut 30cm LD Auto	teneth_mm_base	BannerCut	Bannercut 30cm LD Auto	330	112
+BannerCut Bannercut 60cm LD Auto	teneth_mm_base	BannerCut	Bannercut 60cm LD Auto	630	112
+BannerCut Bannercut 130cm LD Auto	teneth_mm_base	BannerCut	Bannercut 130cm LD Auto	1200	112
+BannerCut Bannercut 160cm LD Auto	teneth_mm_base	BannerCut	Bannercut 160cm LD Auto	1550	112
+
+Best Plotter BP330L	teneth_manual_base	Best Plotter	BP330L	335	80
+Best Plotter BP330A	teneth_mm_base	Best Plotter	BP330A	335	112
+Best Plotter BP630L	teneth_manual_base	Best Plotter	BP630L	635	80
+Best Plotter BP630A	teneth_mm_base	Best Plotter	BP630A	635	112
+Best Plotter BP1200L	teneth_manual_base	Best Plotter	BP1200L	1250	80
+Best Plotter BP1200A	teneth_mm_base	Best Plotter	BP1200A	1250	112
+Best Plotter B24L	teneth_manual_base	Best Plotter	B24L	635	80
+Best Plotter B24A	teneth_mm_base	Best Plotter	B24A	635	112
+Best Plotter B48L	teneth_manual_base	Best Plotter	B48L	1250	80
+Best Plotter B48A	teneth_mm_base	Best Plotter	B48A	1250	112
+Best Plotter B59L	teneth_manual_base	Best Plotter	B59L	1550	80
+Best Plotter B59A	teneth_mm_base	Best Plotter	B59A	1550	112
+Best Plotter BK630	teneth_manual_base	Best Plotter	BK630	635	80
+Best Plotter BK630A	teneth_mm_base	Best Plotter	BK630A	635	112
+Best Plotter BK1200	teneth_manual_base	Best Plotter	BK1200	1250	80
+Best Plotter BK1200A	teneth_mm_base	Best Plotter	BK1200A	1250	112
+Best Plotter BN630	teneth_manual_base	Best Plotter	BN630	635	80
+Best Plotter BN630A	teneth_mm_base	Best Plotter	BN630A	635	112
+Best Plotter BN1200	teneth_manual_base	Best Plotter	BN1200	1250	80
+Best Plotter BN1200A	teneth_mm_base	Best Plotter	BN1200A	1250	112
+
+CAMFive CFC-S24	teneth_manual_base	CAMFive	CFC-S24	630	80
+CAMFive CFC-S48	teneth_manual_base	CAMFive	CFC-S48	1200	80
+CAMFive CFC-S61	teneth_manual_base	CAMFive	CFC-S61	1550	80
+CAMFive CFC-A75	teneth_manual_base	CAMFive	CFC-A75	630	80
+CAMFive CFC-A130	teneth_manual_base	CAMFive	CFC-A130	1200	80
+CAMFive CFC-A165	teneth_manual_base	CAMFive	CFC-A165	1550	80
+
+CAMFive CFC-S24 Auto	teneth_mm_base	CAMFive	CFC-S24 Auto	630	112
+CAMFive CFC-S48 Auto	teneth_mm_base	CAMFive	CFC-S48 Auto	1200	112
+CAMFive CFC-S61 Auto	teneth_mm_base	CAMFive	CFC-S61 Auto	1550	112
+CAMFive CFC-A75 Auto	teneth_mm_base	CAMFive	CFC-A75 Auto	630	112
+CAMFive CFC-A130 Auto	teneth_mm_base	CAMFive	CFC-A130 Auto	1200	112
+CAMFive CFC-A165 Auto	teneth_mm_base	CAMFive	CFC-A165 Auto	1550	112
+
+CuttingPro CUTTER 12	teneth_manual_base	CuttingPro	CUTTER 12	330	80
+CuttingPro CUTTER 24	teneth_manual_base	CuttingPro	CUTTER 24	630	80
+CuttingPro CUTTER 48	teneth_manual_base	CuttingPro	CUTTER 48	1200	80
+CuttingPro CUTTER 59	teneth_manual_base	CuttingPro	CUTTER 59	1550	80
+
+CuttingPro CUTTER 12 Auto	teneth_mm_base	CuttingPro	CUTTER 12 Auto	330	112
+CuttingPro CUTTER 24 Auto	teneth_mm_base	CuttingPro	CUTTER 24 Auto	630	112
+CuttingPro CUTTER 48 Auto	teneth_mm_base	CuttingPro	CUTTER 48 Auto	1200	112
+CuttingPro CUTTER 59 Auto	teneth_mm_base	CuttingPro	CUTTER 59 Auto	1550	112
+
+CuttingPro TH440L	teneth_manual_base	CuttingPro	TH440L	335	80
+CuttingPro TH440A	teneth_mm_base	CuttingPro	TH440A	335	112
+CuttingPro TH740L	teneth_manual_base	CuttingPro	TH740L	635	80
+CuttingPro TH740A	teneth_mm_base	CuttingPro	TH740A	635	112
+CuttingPro TH1300L	teneth_manual_base	CuttingPro	TH1300L	1250	80
+CuttingPro TH1300A	teneth_mm_base	CuttingPro	TH1300A	1250	112
+CuttingPro T24L	teneth_manual_base	CuttingPro	T24L	635	80
+CuttingPro T24A	teneth_mm_base	CuttingPro	T24A	635	112
+CuttingPro T48L	teneth_manual_base	CuttingPro	T48L	1250	80
+CuttingPro T48A	teneth_mm_base	CuttingPro	T48A	1250	112
+CuttingPro T59L	teneth_manual_base	CuttingPro	T59L	1550	80
+CuttingPro T59A	teneth_mm_base	CuttingPro	T59A	1550	112
+CuttingPro TK740	teneth_manual_base	CuttingPro	TK740	635	80
+CuttingPro TK740A	teneth_mm_base	CuttingPro	TK740A	635	112
+CuttingPro TK1350	teneth_manual_base	CuttingPro	TK1350	1250	80
+CuttingPro TK1350A	teneth_mm_base	CuttingPro	TK1350A	1250	112
+CuttingPro TN740	teneth_manual_base	CuttingPro	TN740	630	80
+CuttingPro TN740A	teneth_mm_base	CuttingPro	TN740A	630	112
+CuttingPro TN1350	teneth_manual_base	CuttingPro	TN1350	1250	80
+CuttingPro TN1350A	teneth_mm_base	CuttingPro	TN1350A	1250	112
+CuttingPro TH1600A	teneth_mm_base	CuttingPro	TH1600A	1550	112
+
+DASHENG DS-440	teneth_manual_base	DASHENG	DS-440	330	80
+DASHENG DS-740	teneth_manual_base	DASHENG	DS-740	630	80
+DASHENG DS-1300	teneth_manual_base	DASHENG	DS-1300	1200	80
+DASHENG DS-1660	teneth_manual_base	DASHENG	DS-1660	1550	80
+
+DASHENG DS-440 Auto	teneth_mm_base	DASHENG	DS-440 Auto	330	112
+DASHENG DS-740 Auto	teneth_mm_base	DASHENG	DS-740 Auto	630	112
+DASHENG DS-1300 Auto	teneth_mm_base	DASHENG	DS-1300 Auto	1200	112
+DASHENG DS-1660 Auto	teneth_mm_base	DASHENG	DS-1660 Auto	1550	112
+
+INK SPA CT-440L	teneth_manual_base	INK SPA	CT-440L	330	80
+INK SPA CT-740L	teneth_manual_base	INK SPA	CT-740L	630	80
+INK SPA CT-1300L	teneth_manual_base	INK SPA	CT-1300L	1200	80
+INK SPA CT-1660L	teneth_manual_base	INK SPA	CT-1660L	1550	80
+
+INK SPA CT-440 Auto	teneth_mm_base	INK SPA	CT-440 Auto	330	112
+INK SPA CT-740 Auto	teneth_mm_base	INK SPA	CT-740 Auto	630	112
+INK SPA CT-1300 Auto	teneth_mm_base	INK SPA	CT-1300 Auto	1200	112
+INK SPA CT-1660 Auto	teneth_mm_base	INK SPA	CT-1660 Auto	1550	112
+
+Kenika  TH440L	teneth_manual_base	Kenika 	TH440L	335	80
+Kenika  TH440A	teneth_mm_base	Kenika 	TH440A	335	112
+Kenika  TH740L	teneth_manual_base	Kenika 	TH740L	635	80
+Kenika  TH740A	teneth_mm_base	Kenika 	TH740A	635	112
+Kenika  TH1300L	teneth_manual_base	Kenika 	TH1300L	1250	80
+Kenika  TH1300A	teneth_mm_base	Kenika 	TH1300A	1250	112
+Kenika  T24L	teneth_manual_base	Kenika 	T24L	635	80
+Kenika  T24A	teneth_mm_base	Kenika 	T24A	635	112
+Kenika  T48L	teneth_manual_base	Kenika 	T48L	1250	80
+Kenika  T48A	teneth_mm_base	Kenika 	T48A	1250	112
+Kenika  T59L	teneth_manual_base	Kenika 	T59L	1550	80
+Kenika  T59A	teneth_mm_base	Kenika 	T59A	1550	112
+Kenika  TK740	teneth_manual_base	Kenika 	TK740	635	80
+Kenika  TK740A	teneth_mm_base	Kenika 	TK740A	635	112
+Kenika  TK1350	teneth_manual_base	Kenika 	TK1350	1250	80
+Kenika  TK1350A	teneth_mm_base	Kenika 	TK1350A	1250	112
+Kenika  TN740	teneth_manual_base	Kenika 	TN740	635	80
+Kenika  TN740A	teneth_mm_base	Kenika 	TN740A	635	112
+Kenika  TN1350	teneth_manual_base	Kenika 	TN1350	1250	80
+Kenika  TN1350A	teneth_mm_base	Kenika 	TN1350A	1250	112
+Kenika  XX49LX	teneth_manual_base	Kenika 	XX49LX	1250	80
+
+PIXELMAKER PM-440	teneth_manual_base	PIXELMAKER	PM-440	330	80
+PIXELMAKER PM-740	teneth_manual_base	PIXELMAKER	PM-740	630	80
+PIXELMAKER PM-1300	teneth_manual_base	PIXELMAKER	PM-1300	1200	80
+PIXELMAKER PM-1660	teneth_manual_base	PIXELMAKER	PM-1660	1550	80
+
+PIXELMAKER PM-440 Auto	teneth_mm_base	PIXELMAKER	PM-440 Auto	330	112
+PIXELMAKER PM-740 Auto	teneth_mm_base	PIXELMAKER	PM-740 Auto	630	112
+PIXELMAKER PM-1300 Auto	teneth_mm_base	PIXELMAKER	PM-1300 Auto	1200	112
+PIXELMAKER PM-1660 Auto	teneth_mm_base	PIXELMAKER	PM-1660 Auto	1550	112
+
+POLARIS PL-440	teneth_manual_base	POLARIS	PL-440	330	80
+POLARIS PL-740	teneth_manual_base	POLARIS	PL-740	630	80
+POLARIS PL-1300	teneth_manual_base	POLARIS	PL-1300	1200	80
+POLARIS PL-1660	teneth_manual_base	POLARIS	PL-1660	1550	80
+
+POLARIS PL-440 Auto	teneth_mm_base	POLARIS	PL-440 Auto	330	112
+POLARIS PL-740 Auto	teneth_mm_base	POLARIS	PL-740 Auto	630	112
+POLARIS PL-1300 Auto	teneth_mm_base	POLARIS	PL-1300 Auto	1200	112
+POLARIS PL-1660 Auto	teneth_mm_base	POLARIS	PL-1660 Auto	1550	112
+
+PowerCut 440-BT	teneth_manual_base	PowerCut	440-BT	330	80
+PowerCut 740-BT	teneth_manual_base	PowerCut	740-BT	630	80
+PowerCut 1300-BT	teneth_manual_base	PowerCut	1300-BT	1200	80
+PowerCut 1660-BT	teneth_manual_base	PowerCut	1660-BT	1550	80
+
+PowerCut 440-BT Auto	teneth_mm_base	PowerCut	440-BT Auto	330	112
+PowerCut 740-BT Auto	teneth_mm_base	PowerCut	740-BT Auto	630	112
+PowerCut 1300-BT Auto	teneth_mm_base	PowerCut	1300-BT Auto	1200	112
+PowerCut 1660-BT Auto	teneth_mm_base	PowerCut	1660-BT Auto	1550	112
+
+RHINOTEC RC-60	teneth_manual_base	RHINOTEC	RC-60	630	80
+RHINOTEC RC-120	teneth_manual_base	RHINOTEC	RC-120	1200	80
+RHINOTEC RC-150	teneth_manual_base	RHINOTEC	RC-150	1550	80
+RHINOTEC RC-60A	teneth_mm_base	RHINOTEC	RC-60A	630	112
+RHINOTEC RC-120A	teneth_mm_base	RHINOTEC	RC-120A	1200	112
+RHINOTEC RC-150A	teneth_mm_base	RHINOTEC	RC-150A	1550	112
+
+SUCHI SC-730	teneth_manual_base	SUCHI	SC-730	630	80
+SUCHI SC-1300	teneth_manual_base	SUCHI	SC-1300	1200	80
+SUCHI SC-1660	teneth_manual_base	SUCHI	SC-1660	1550	80
+SUCHI SU-740	teneth_manual_base	SUCHI	SU-740	630	80
+SUCHI SU-1350	teneth_manual_base	SUCHI	SU-1350	1250	80
+SUCHI SU-1660	teneth_manual_base	SUCHI	SU-1660	1550	80
+
+SUCHI SC-730 Auto	teneth_mm_base	SUCHI	SC-730 Auto	630	112
+SUCHI SC-1300 Auto	teneth_mm_base	SUCHI	SC-1300 Auto	1200	112
+SUCHI SC-1660 Auto	teneth_mm_base	SUCHI	SC-1660 Auto	1550	112
+SUCHI SU-740 Auto	teneth_mm_base	SUCHI	SU-740 Auto	630	112
+SUCHI SU-1350 Auto	teneth_mm_base	SUCHI	SU-1350 Auto	1250	112
+SUCHI SU-1660 Auto	teneth_mm_base	SUCHI	SU-1660 Auto	1550	112
+
+Technocut TC-24L	teneth_manual_base	Technocut	TC-24L	635	80
+Technocut TC-48L	teneth_manual_base	Technocut	TC-48L	1250	80
+Technocut TC-60L	teneth_manual_base	Technocut	TC-60L	1550	80
+Technocut TC-24A	teneth_mm_base	Technocut	TC-24A	635	112
+Technocut TC-48A	teneth_mm_base	Technocut	TC-48A	1250	112
+Technocut TC-60A	teneth_mm_base	Technocut	TC-60A	1550	112
+Technocut TC-S24L	teneth_manual_base	Technocut	TC-S24L	635	80
+Technocut TC-S48L	teneth_manual_base	Technocut	TC-S48L	1250	80
+Technocut TC-S60L	teneth_manual_base	Technocut	TC-S60L	1550	80
+Technocut TC-S24A	teneth_mm_base	Technocut	TC-S24A	635	112
+Technocut TC-S48A	teneth_mm_base	Technocut	TC-S48A	1250	112
+Technocut TC-S60A	teneth_mm_base	Technocut	TC-S60A	1550	112
+SK-375	seiki_manual_base	Vevor	SK-375	285	1104
+SK-720	seiki_manual_base	Vevor	SK-720	630	1104
+SK-870	seiki_manual_base	Vevor	SK-870	780	1104
+SK-1350	seiki_manual_base	Vevor	SK-1350	1260	1104
+Vicsign HWF330	jkmm_base	Vicsign	HWF330	330	48
+Vicsign HWF630	jkmm_base	Vicsign	HWF630	630	48
+Vicsign HWF1080	jkmm_base	Vicsign	HWF1080	1080	48
+Vicsign HWF1200	jkmm_base	Vicsign	HWF12000	1200	48
+Vicsign HWF1600	jkmm_base	Vicsign	HWF1600	1600	48
+
+Vicsign HSF630	jkmm_base	Vicsign	HSF630	630	48
+Vicsign HSF1080	jkmm_base	Vicsign	HSF1080	1080	48
+Vicsign HSF1200	jkmm_base	Vicsign	HSF12000	1200	48
+Vicsign HSF1600	jkmm_base	Vicsign	HSF1600	1600	48
+
+Vicsign HL1080	vicsign_base_jkarms2_com	Vicsign	HL1080	1080	16
+Vicsign HL1200	vicsign_base_jkarms2_com	Vicsign	HL1200	1200	16
+Vicsign HL1600	vicsign_base_jkarms2_com	Vicsign	HL1600	1600	16
+Vicsign HL330	vicsign_base_jkarms2_com	Vicsign	HL330	330	16
+Vicsign HL630	vicsign_base_jkarms2_com	Vicsign	HL630	630	16
+					
+Vicsign HP1200	vicsign_base_jkarms2_com	Vicsign	HP1200	1200	16
+Vicsign HP1600	vicsign_base_jkarms2_com	Vicsign	HP1600	1600	16
+Vicsign HP330	vicsign_base_jkarms2_com	Vicsign	HP330	330	16
+Vicsign HP630	vicsign_base_jkarms2_com	Vicsign	HP630	630	16
+					
+Vicsign HS1080	vicsign_base_jkarms2_usb	Vicsign	HS1080	1080	16
+Vicsign HS1200	vicsign_base_jkarms2_usb	Vicsign	HS1200	1200	16
+Vicsign HS1600	vicsign_base_jkarms2_usb	Vicsign	HS1600	1600	16
+Vicsign HS630	vicsign_base_jkarms2_usb	Vicsign	HS630	630	16
+					
+Vicsign HSQ1080	vicsign_base_jkarms2_usb	Vicsign	HSQ1080	1080	48
+Vicsign HSQ1200	vicsign_base_jkarms2_usb	Vicsign	HSQ1200	1200	48
+Vicsign HSQ1600	vicsign_base_jkarms2_usb	Vicsign	HSQ1600	1600	48
+Vicsign HSQ630	vicsign_base_jkarms2_usb	Vicsign	HSQ630	630	48
+					
+Vicsign HW1080	vicsign_base_jkarms2_com	Vicsign	HW1080	1080	80
+Vicsign HW1200	vicsign_base_jkarms2_com	Vicsign	HW1200	1200	80
+Vicsign HW1600	vicsign_base_jkarms2_com	Vicsign	HW1600	1600	80
+Vicsign HW330	vicsign_base_jkarms2_com	Vicsign	HW330	330	80
+Vicsign HW630	vicsign_base_jkarms2_com	Vicsign	HW630	630	80
+					
+Vicsign HWQ1080	vicsign_base_jkarms2_usb	Vicsign	HWQ1080	1080	48
+Vicsign HWQ1200	vicsign_base_jkarms2_usb	Vicsign	HWQ1200	1200	48
+Vicsign HWQ1600	vicsign_base_jkarms2_usb	Vicsign	HWQ1600	1600	48
+Vicsign HWQ330	vicsign_base_jkarms2_usb	Vicsign	HWQ330	330	48
+Vicsign HWQ630	vicsign_base_jkarms2_usb	Vicsign	HWQ630	630	48
+
+Vicsign Q3	vicsign_JKARMS_r180_base	Vicsign	Q3	320	2096
+Vicsign Q4	vicsign_JKARMS_r180_base	Vicsign	Q4	297	2096
+Graphtec CE1000-60	graphtec_fc8000_base	Graphtec	CE1000-60	600	32
+Graphtec CE2000-120	graphtec_fc8000_base	Graphtec	CE2000-120	1200	32
+Graphtec CE2000-60	graphtec_fc8000_base	Graphtec	CE2000-60	600	32
+Graphtec CE2800-60	graphtec_fc8000_base	Graphtec	CE2800-60	711.2	32
+Graphtec CE3000-120	graphtec_fc8000_base	Graphtec	CE3000-120	1200	32
+Graphtec CE3000-40	graphtec_fc8000_base	Graphtec	CE3000-40	381	32
+Graphtec CE3000-40-CRP	graphtec_fc8000_base	Graphtec	CE3000-40-CRP	406.4	32
+Graphtec CE3000-60	graphtec_fc8000_base	Graphtec	CE3000-60	600	32
+Graphtec CE3000MkII-120	graphtec_fc8000_base	Graphtec	CE3000MkII-120	1219.2	32
+Graphtec CE3000MkII-60	graphtec_fc8000_base	Graphtec	CE3000MkII-60	609.6	32
+Graphtec CE5000-120	graphtec_fc8000_base	Graphtec	CE5000-120	1219.2	32
+Graphtec CE5000-40-CRP	graphtec_fc8000_base	Graphtec	CE5000-40-CRP	406.4	32
+Graphtec CE5000-60	graphtec_fc8000_base	Graphtec	CE5000-60	609.6	32
+Graphtec CE6000-120	graphtec_fc8000_base	Graphtec	CE6000-120	1219.199951	32
+Graphtec CE6000-40	graphtec_fc8000_base	Graphtec	CE6000-40	381	32
+Graphtec CE6000-60	graphtec_fc8000_base	Graphtec	CE6000-60	609.5999756	32
+Graphtec FC2100-120	hpgl_base	Graphtec	FC2100-120	1219.2	128
+Graphtec FC2100-50	hpgl_base	Graphtec	FC2100-50	500	128
+Graphtec FC2100-60	hpgl_base	Graphtec	FC2100-60	600	128
+Graphtec FC2100-90	hpgl_base	Graphtec	FC2100-90	900	128
+Graphtec FC2200-50	hpgl_base	Graphtec	FC2200-50	914.4	128
+Graphtec FC2200-90	hpgl_base	Graphtec	FC2200-90	914.4	128
+Graphtec FC2200-90EX	hpgl_base	Graphtec	FC2200-90EX	914.4	128
+Graphtec FC223X-60	hpgl_base	Graphtec	FC223X-60	914.4	128
+Graphtec FC223X-90	hpgl_base	Graphtec	FC223X-90	919.5	128
+Graphtec FC223X-90EX	hpgl_base	Graphtec	FC223X-90EX	919.5	128
+Graphtec FC2250-120	hpgl_base	Graphtec	FC2250-120	1199.9	128
+Graphtec FC2250-180	hpgl_base	Graphtec	FC2250-180	1800	128
+Graphtec FC2250-60	hpgl_base	Graphtec	FC2250-60	600	128
+Graphtec FC2300-50	hpgl_base	Graphtec	FC2300-50	454.6	128
+Graphtec FC3100-100	hpgl_base	Graphtec	FC3100-100	1016	128
+Graphtec FC3100-120	hpgl_base	Graphtec	FC3100-120	1219.2	128
+Graphtec FC3100-60	hpgl_base	Graphtec	FC3100-60	600	128
+Graphtec FC3200-50	hpgl_base	Graphtec	FC3200-50	609.6	128
+Graphtec FC3200-90	hpgl_base	Graphtec	FC3200-90	914.4	128
+Graphtec FC3200-90EX	hpgl_base	Graphtec	FC3200-90EX	914.4	128
+Graphtec FC3209-60	hpgl_base	Graphtec	FC3209-60	900	128
+Graphtec FC3212-180	hpgl_base	Graphtec	FC3212-180	1200	128
+Graphtec FC3212-240	hpgl_base	Graphtec	FC3212-240	1200	128
+Graphtec FC3212-90	hpgl_base	Graphtec	FC3212-90	1200	128
+Graphtec FC3600	hpgl_base	Graphtec	FC3600	1219.2	128
+Graphtec FC4100-100	hpgl_base	Graphtec	FC4100-100	1016	128
+Graphtec FC4100-130	hpgl_base	Graphtec	FC4100-130	1371.6	128
+Graphtec FC4100-75	hpgl_base	Graphtec	FC4100-75	762	128
+Graphtec FC4200-50	hpgl_base	Graphtec	FC4200-50	589.3	128
+Graphtec FC4200-60	hpgl_base	Graphtec	FC4200-60	911.9	128
+Graphtec FC4210-60	hpgl_base	Graphtec	FC4210-60	911.9	128
+Graphtec FC5100-100	hpgl_base	Graphtec	FC5100-100	1056.6	128
+Graphtec FC5100-130	hpgl_base	Graphtec	FC5100-130	1371.6	128
+Graphtec FC5100-150	hpgl_base	Graphtec	FC5100-150	1513.8	128
+Graphtec FC5100-75	hpgl_base	Graphtec	FC5100-75	751.8	128
+Graphtec FC7000 MK2-100	graphtec_fc8000_base	Graphtec	FC7000 MK2-100	1056.6	32
+Graphtec FC7000 MK2-130	graphtec_fc8000_base	Graphtec	FC7000 MK2-130	1371.6	32
+Graphtec FC7000 MK2-160	graphtec_fc8000_base	Graphtec	FC7000 MK2-160	1600.2	32
+Graphtec FC7000 MK2-60	graphtec_fc8000_base	Graphtec	FC7000 MK2-60	600	32
+Graphtec FC7000 MK2-75	graphtec_fc8000_base	Graphtec	FC7000 MK2-75	751.8	32
+Graphtec FC7000-100	graphtec_fc8000_base	Graphtec	FC7000-100	1056.6	32
+Graphtec FC7000-130	graphtec_fc8000_base	Graphtec	FC7000-130	1371.6	32
+Graphtec FC7000-160	graphtec_fc8000_base	Graphtec	FC7000-160	1600.2	32
+Graphtec FC7000-60	graphtec_fc8000_base	Graphtec	FC7000-60	600	32
+Graphtec FC7000-75	graphtec_fc8000_base	Graphtec	FC7000-75	751.8	32
+Graphtec FC8000-100	graphtec_fc8000_base	Graphtec	FC8000-100	1056.6	32
+Graphtec FC8000-130	graphtec_fc8000_base	Graphtec	FC8000-130	1371.6	32
+Graphtec FC8000-60	graphtec_fc8000_base	Graphtec	FC8000-60	600	32
+Graphtec FC8000-75	graphtec_fc8000_base	Graphtec	FC8000-75	751.8	32
+Graphtec FC8600-100	graphtec_fc8000_base	Graphtec	FC8600-100	1067	32
+Graphtec FC8600-130	graphtec_fc8000_base	Graphtec	FC8600-130	1372	32
+Graphtec FC8600-160	graphtec_fc8000_base	Graphtec	FC8600-160	1625	32
+Graphtec FC8600-60	graphtec_fc8000_base	Graphtec	FC8600-60	610	32
+Graphtec FC8600-75	graphtec_fc8000_base	Graphtec	FC8600-75	762	32
+
+
+Mimaki APC-130	mimak_cg_base	Mimaki	APC-130	1240	0
+Mimaki CF3-1610	mimak_cg_base	Mimaki	CF3-1610	1000	0
+Mimaki CF3-1631	mimak_cg_base	Mimaki	CF3-1631	1600	0
+Mimaki CG-100EX	mimak_cg_base	Mimaki	CG-100EX	1219.2	0
+Mimaki CG-100LX	mimak_cg_base	Mimaki	CG-100LX	1005.8	0
+Mimaki CG-100SRII	mimak_cg_base	Mimaki	CG-100SRII	1016	0
+Mimaki CG-100SRIII	mimak_cg_base	Mimaki	CG-100SRIII	1070	0
+Mimaki CG-101	mimak_cg_base	Mimaki	CG-101	1000.8	0
+Mimaki CG-12	mimak_cg_base	Mimaki	CG-12	1219.2	0
+Mimaki CG-121	mimak_cg_base	Mimaki	CG-121	1219.2	0
+Mimaki CG-130EX	mimak_cg_base	Mimaki	CG-130EX	1524	0
+Mimaki CG-130FX	mimak_cg_base	Mimaki	CG-130FX	1295.4	0
+Mimaki CG-130FXII	mimak_cg_base	Mimaki	CG-130FXII	1295.4	0
+Mimaki CG-130LX	mimak_cg_base	Mimaki	CG-130LX	1300.5	0
+Mimaki CG-130SRII	mimak_cg_base	Mimaki	CG-130SRII	1295.4	0
+Mimaki CG-130SRIII	mimak_cg_base	Mimaki	CG-130SRIII	1370	0
+Mimaki CG-160FX	mimak_cg_base	Mimaki	CG-160FX	1600.2	0
+Mimaki CG-160FXII	mimak_cg_base	Mimaki	CG-160FXII	1600.2	0
+Mimaki CG-45	mimak_cg_base	Mimaki	CG-45	445	0
+Mimaki CG-5	mimak_cg_base	Mimaki	CG-5	477.5	0
+Mimaki CG-50	mimak_cg_base	Mimaki	CG-50	469.9	0
+Mimaki CG-51	mimak_cg_base	Mimaki	CG-51	477.5	0
+Mimaki CG-6	mimak_cg_base	Mimaki	CG-6	609.6	0
+Mimaki CG-60	mimak_cg_base	Mimaki	CG-60	315	0
+Mimaki CG-60EX	mimak_cg_base	Mimaki	CG-60EX	762	0
+Mimaki CG-60SL	mimak_cg_base	Mimaki	CG-60SL	609.6	0
+Mimaki CG-60SR	mimak_cg_base	Mimaki	CG-60SR	609.6	0
+Mimaki CG-60SRIII	mimak_cg_base	Mimaki	CG-60SRIII	606	0
+Mimaki CG-60st	mimak_cg_base	Mimaki	CG-60st	762	0
+Mimaki CG-61	mimak_cg_base	Mimaki	CG-61	591.8	0
+Mimaki CG-75FX	mimak_cg_base	Mimaki	CG-75FX	749.3	0
+Mimaki CG-75FXII	mimak_cg_base	Mimaki	CG-75FXII	749.3	0
+Mimaki CG-75ML	mimak_cg_base	Mimaki	CG-75ML	749.3	0
+Mimaki CG-9	mimak_cg_base	Mimaki	CG-9	1016	0
+Mimaki CG-90	mimak_cg_base	Mimaki	CG-90	914.4	0
+
+Mycut MG330	Mycut_ARMS_base	Mycut	MG330	330	240
+Mycut MG630	Mycut_ARMS_base	Mycut	MG630	630	240
+Mycut MG1200	Mycut_ARMS_base	Mycut	MG1200	1200	240
+Mycut MH330	Mycut_Manual_base	Mycut	MH330	330	80
+Mycut MH630	Mycut_Manual_base	Mycut	MH630	630	80
+Mycut MH1200	Mycut_Manual_base	Mycut	MH1200	1200	80
+Mycut MH1500	Mycut_Manual_base	Mycut	MH1500	1500	80
+Mycut MK330	Mycut_Manual_base	Mycut	MK330	330	80
+Mycut MK630	Mycut_Manual_base	Mycut	MK630	630	80
+Mycut MK1200	Mycut_Manual_base	Mycut	MK1200	1200	80
+Mycut MK1500	Mycut_Manual_base	Mycut	MK1500	1500	80
+Mycut MS630	Mycut_Manual_base	Mycut	MS630	630	80
+Mycut MS630G	Mycut_ARMS_base	Mycut	MS630G	630	240
+Mycut MS1200	Mycut_Manual_base	Mycut	MS1200	1200	80
+Mycut MS1200G	Mycut_ARMS_base	Mycut	MS1200G	1200	240
+
+Roland GS-24	roland_gx24_base	Roland	GS-24	584.2	160
+Roland GX-24	roland_gx24_base	Roland	GX-24	584.2	160
+Roland GX-300	roland_gx24_base	Roland	GX-300	737.1	160
+Roland GX-400	roland_gx24_base	Roland	GX-400	1000	160
+Roland GX-500	roland_gx24_base	Roland	GX-500	1195.1	160
+Roland GX-640	roland_gx24_base	Roland	GX-640	1651	160
+
+
+Summa D1000	summa_d75_base	Summa	D1000	1000	32
+Summa D1010	summa_d75_base	Summa	D1010	1009.9	32
+Summa D1010 PRO	summa_d75_base	Summa	D1010 PRO	1016	32
+Summa D1010 PRO SL	summa_d75_base	Summa	D1010 PRO SL	1016	32
+Summa D1020	summa_d75_base	Summa	D1020	1000.8	32
+Summa D120	summa_d75_base	Summa	D120	1198.9	32
+Summa D120 Pharos	summa_d75_base	Summa	D120 Pharos	1199.895996	32
+Summa D120 SE	summa_d75_base	Summa	D120 SE	1193.8	32
+Summa D120R	summa_d75_base	Summa	D120R	1199.9	32
+Summa D1220	summa_d75_base	Summa	D1220	1199.9	32
+Summa D1300	summa_d75_base	Summa	D1300	1300	32
+Summa D1300 PRO	summa_d75_base	Summa	D1300 PRO	1193.8	32
+Summa D140	summa_d75_base	Summa	D140	1524	32
+Summa D140 Pharos	summa_d75_base	Summa	D140 Pharos	1350	32
+Summa D1400 PRO	summa_d75_base	Summa	D1400 PRO	1371.6	32
+Summa D1400 PRO SL	summa_d75_base	Summa	D1400 PRO SL	1346.2	32
+Summa D140R	summa_d75_base	Summa	D140R	1399.8	32
+Summa D15	summa_d75_base	Summa	D15	381	32
+Summa D160	summa_d75_base	Summa	D160	1580	32
+Summa D160 Pharos	summa_d75_base	Summa	D160 Pharos	1580	32
+Summa D160 SE	summa_d75_base	Summa	D160 SE	1580	32
+Summa D1600 PRO SL	summa_d75_base	Summa	D1600 PRO SL	1600.2	32
+Summa D1600 PRO SL	summa_d75_base	Summa	D1600 PRO SL	1580	32
+Summa D500	summa_d75_base	Summa	D500	525.8	32
+Summa D520	summa_d75_base	Summa	D520	500.4	32
+Summa D60	summa_d75_base	Summa	D60	774.7	32
+Summa D60 SE	summa_d75_base	Summa	D60 SE	599.4	32
+Summa D60 SE Desktop	summa_d75_base	Summa	D60 SE Desktop	599.4	32
+Summa D60 SE Pharos	summa_d75_base	Summa	D60 SE Pharos	774.7	32
+Summa D60/U	summa_d75_base	Summa	D60/U	599.4	32
+Summa D60R	summa_d75_base	Summa	D60R	599.4	32
+Summa D610	summa_d75_base	Summa	D610	610	32
+Summa D610 PRO	summa_d75_base	Summa	D610 PRO	610	32
+Summa D620	summa_d75_base	Summa	D620	599.4	32
+Summa D750	summa_d75_base	Summa	D750	750	32
+Summa D750 PRO	summa_d75_base	Summa	D750 PRO	762	32
+Summa D750 PRO SL	summa_d75_base	Summa	D750 PRO SL	762	32
+Summa D75R	summa_d75_base	Summa	D75R	749.3	32
+Summa D760	summa_d75_base	Summa	D760	739.1	32
+Summa Eclipse 24	summa_d75_base	Summa	Eclipse 24	774.7	32
+Summa Eclipse 48	summa_d75_base	Summa	Eclipse 48	1198.9	32
+Summa S120 D	summa_d75_base	Summa	S120 D	1249.9	32
+Summa S120 T	summa_d75_base	Summa	S120 T	1249.9	32
+Summa S140 D	summa_d75_base	Summa	S140 D	1400	32
+Summa S140 T	summa_d75_base	Summa	S140 T	1400	32
+Summa S160 D	summa_d75_base	Summa	S160 D	1629.9	32
+Summa S160 T	summa_d75_base	Summa	S160 T	1629.9	32
+Summa S2 120-D	summa_d75_base	Summa	S2 120-D	1220	32
+Summa S2 120-T	summa_d75_base	Summa	S2 120-T	1220	32
+Summa S2 140-D	summa_d75_base	Summa	S2 140-D	1370	32
+Summa S2 140-T	summa_d75_base	Summa	S2 140-T	1370	32
+Summa S2 140-T4	summa_d75_base	Summa	S2 140-T4	1370	32
+Summa S2 160-D	summa_d75_base	Summa	S2 160-D	1630	32
+Summa S2 160-T	summa_d75_base	Summa	S2 160-T	1630	32
+Summa S2 160-T4	summa_d75_base	Summa	S2 160-T4	1630	32
+Summa S2 75-D	summa_d75_base	Summa	S2 75-D	760	32
+Summa S2 75-T	summa_d75_base	Summa	S2 75-T	760	32
+Summa S2 75-T4	summa_d75_base	Summa	S2 75-T4	760	32
+Summa S75 D	summa_d75_base	Summa	S75 D	792	32
+Summa S75 T	summa_d75_base	Summa	S75 T	792	32
+Summa T Plus 1010	summa_d75_base	Summa	T Plus 1010	1009.9	32
+Summa T1000	summa_d75_base	Summa	T1000	1000	32
+Summa T1010	summa_d75_base	Summa	T1010	1009.9	32
+Summa T1010 PRO	summa_d75_base	Summa	T1010 PRO	1016	32
+Summa T1010 PRO SL	summa_d75_base	Summa	T1010 PRO SL	1016	32
+Summa T1010A	summa_d75_base	Summa	T1010A	990.6	32
+Summa T1300	summa_d75_base	Summa	T1300	1300	32
+Summa T1300 PRO	summa_d75_base	Summa	T1300 PRO	1193.8	32
+Summa T1300A	summa_d75_base	Summa	T1300A	1193.8	32
+Summa T140	summa_d75_base	Summa	T140	1524	32
+Summa T1400 PRO	summa_d75_base	Summa	T1400 PRO	1371.6	32
+Summa T1400 PRO SL	summa_d75_base	Summa	T1400 PRO SL	1346.2	32
+Summa T1600 PRO SL	summa_d75_base	Summa	T1600 PRO SL	1600.2	32
+Summa T520	summa_d75_base	Summa	T520	510	32
+Summa T610	summa_d75_base	Summa	T610	584.2	32
+Summa T610 PRO	summa_d75_base	Summa	T610 PRO	584.2	32
+Summa T750	summa_d75_base	Summa	T750	750	32
+Summa T750 PRO	summa_d75_base	Summa	T750 PRO	762	32
+Summa T750 PRO SL	summa_d75_base	Summa	T750 PRO SL	762	32
+
+
+TITAN - 15in (Stepper)	saga_base	TITAN	15in	381	80
+TITAN - 28in (Stepper)	saga_base	TITAN	28in	711.2	80
+TITAN - 53in (Stepper)	saga_base	TITAN	53in	1346.2	80
+TITAN2 - 28in (Servo)	saga_base	TITAN2	28in	711.2	80
+TITAN2 - 53in (Servo)	saga_base	TITAN2	53in	1346.2	80
+TITAN2 - 68in (Servo)	saga_base	TITAN2	68in	1727.2	80
+TITAN3 - 15in (Servo)	saga2b_base	TITAN3	15in	381	307
+TITAN3 - 28in (Servo)	saga2b_base	TITAN3	28in	711.2	307
+TITAN3 - 53in (Servo)	saga2b_base	TITAN3	53in	1346.2	307
+TITAN3 - 68in (Servo)	saga2b_base	TITAN3	63in	1727.2	307
+
+USCutter - Laserpoint II-25in	USC_LP_base	USCutter	Laserpoint II-25in	635	208
+USCutter - Laserpoint II-31.5in	USC_LP_base	USCutter	Laserpoint II-31.5in	800	208
+USCutter - Laserpoint II-50in	USC_LP_base	USCutter	Laserpoint II-50in	1270	208
+
+USCutter MH-365	USC_MH_base	USCutter	MH-365	275	208
+USCutter MH-721	USC_MH_base	USCutter	MH-721	630	208
+USCutter MH-871	USC_MH_base	USCutter	MH-871	780	208
+USCutter MH-1351	USC_MH_base	USCutter	MH-1351	1260	208
+
+USCutter SC-25in	USC_SC_base	USCutter	SC-25in	635	80
+USCutter SC-34in	USC_SC_base	USCutter	SC-34in	863	80
+USCutter SC-50in	USC_SC_base	USCutter	SC-50in	1270	80

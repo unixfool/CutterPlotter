@@ -1,0 +1,43 @@
+;ARMS
+;of=0
+;cf=112 96
+BeginSettings:
+(BRANDNAME): (MODELNAME)	DirectComPort		DMPL	(WIDTHMM)	0	0	0	0	0	0	0.00100000004749745	0.35	2	0	0	2000	0	0	0	0	0	0	\\.\COM3,<baud=38400 flow=cts/rts parity=n data=8 stop=1>	0	0	0		TCP=192.168.0.233:9100|CUR=U_Disk	
+EndSettings:
+BeginPlotter:
+0	(BRANDNAME)	(MODELNAME)	(WIDTHMM)	0	0	HPGL	HPGL	0	0,0,0,0,0,	0,0,0,0,0,	0,0,0,0,0,	0	(CMDFLAGS)				JKARMS;;:H A L0 ECN U U0,0;U0,0;D0,40;	<JKMULTI>	;:H A L0 ECN U U0,0;U0,0;	U0,0;	U%.0f,%.0f;	U%.0f,%.0f;D%.0f,%.0f;U;	0	0	
+EndPlotter:
+BeginEmulation:
+EN=DMPL
+MR=0
+LR=0
+PR=0
+MC=U%.0f,%.0f;
+LC=D%.0f,%.0f;
+PC=D%.0f,%.0f;
+LE=
+PU=U;
+PD=D;
+FC=
+SC=V%.0f;
+UC=
+PM=
+CM=JK_SCAN=TB26,0,(X),(Y);CT1;JK_FAIL=TB24;JK_PADMM=0JK_ENDMM=@
+FD=
+HE=;:H A L0 ECN U U0,0;U0,0;
+FO=@;@ 
+PG=
+XU=40
+YU=40
+FU=40
+BeginMacros
+Test_Area=;:H A L0 ECN U U0,0;U(MAXFIXED);D(MAXFIXED1);U0,0;D;U(MAXFREE);D(MAXFREE1);U0,0;
+Test Length=;:H A L0 ECN U U0,0;U(MAXFREE);D(MAXFREE1);U0,0;@,@/_
+Test Width=;:H A L0 ECN U U0,0;U(MAXFIXED);D(MAXFIXED1);U0,0;@;@/_
+-=;
+Roll Forward=;:H A L0 ECN U0,4000 U @/_
+Roll Back=;:H A L0 ECN U0,-4000 U @/_
+-=;
+Reset=@;@/_;
+EndMacros
+EndEmulation:

@@ -1,0 +1,37 @@
+;1136 with ARMS
+;1104 - no arms
+BeginSettings:
+(BRANDNAME): (MODELNAME)	DirectComPort		DMPL	(WIDTHMM)	0	0	0	0	0	0	0.00100000004749745	0.25	1	0	0	0	0	0	0	0	0	0	\\.\COM3,<baud=38400 flow=cts/rts parity=n data=8 stop=1>	1	1.19999992847443	0.100000143051147	DirectComPort=\\.\COM5,<baud=9600 flow=cts/rts parity=n data=8 stop=1>		
+EndSettings:
+BeginPlotter:
+0	(BRANDNAME)	(MODELNAME)	(WIDTHMM)	0	0	HPGL	HPGL	0	0,0,0,0,0,	0,0,0,0,0,	0,0,0,0,0,	0	(CMDFLAGS)						;:H A L0 EC1 U U0,0 BEGIN_SPOOL;	U0,0 @	U%.0f,%.0f U%.0f,%.0f 	U%.0f,%.0f/_D%.0f,%.0f/_	0	0	
+EndPlotter:
+BeginEmulation:
+EN=DMPL
+MR=0
+LR=0
+PR=0
+MC=M%.0f,%.0f/_
+LC=K%.0f,%.0f
+PC=,%.0f,%.0f
+LE=/_
+PU= 
+PD=D 
+FC=
+SC=V%.0f;
+UC=
+PM=
+CM=
+FD=
+HE=;:H A L0 EC1 U U0,0 
+FO=@
+PG=
+XU=31.4960632324219
+YU=31.4960632324219
+FU=40
+BeginMacros
+Test_Area=;:H A L0 ECN U SP1;/_U/_U(MAXFREE)/_D(MAXFREE1)/_U/_U0,0/_U/_U(MAXFIXED)/_D(MAXFIXED1)/_U/_U0,0/_@/_@/_
+Width_Test=;:H A L0 ECN U SP1;/_U/_U0,0/_U/_U(MAXFIXED)/_D(MAXFIXED1)/_U/_U0,0/_@/_@/_
+Reset=@
+EndMacros
+EndEmulation:

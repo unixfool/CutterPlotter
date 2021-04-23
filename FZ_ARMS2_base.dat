@@ -1,0 +1,38 @@
+;ARMS2
+;of=0
+;cf=119
+BeginSettings:
+(BRANDNAME): (MODELNAME)	DirectComPort		HPGL	(WIDTHMM)	90	8	6	(ORGFLAGS)	0	0	0.00100000004749745	0.25	2	0	0	0	0	0	0	0	0	0	\\.\,<baud=38400 flow=cts/rts parity=n data=8 stop=1>	0	0	0	
+EndSettings:
+BeginPlotter:
+0	(BRANDNAME)	(MODELNAME)	(WIDTHMM)	0	0	HPGL	HPGL	0	1,160,90,0,0,g	1,16,6,50,0,cm/s	1,16,6,50,0,cm/s	0	(CMDFLAGS)				FZ OZ;;:H A L0 ECN U/_P1;(SPEED)(FORCE)	(Foison 25mm)<1 LW FB T L 25 HL 25 VL T R -25 HL 25 VL B L 25 HL -25 VL B R -25 HL -25 VL 0.25 LW T L -3 DX -2 DY 0.5 3 RE >	;:H A L0 ECN U P1;U0,0	U0,0 @ 	U%.0f,%.0f 	U%.0f,%.0f D%.0f,%.0f 	0	0	
+EndPlotter:
+BeginEmulation:
+EN=TEST_T1
+MR=0
+LR=0
+PR=0
+MC=U/_U%.0f,%.0f/_
+LC=D%.0f,%.0f/_
+PC=D%.0f,%.0f/_
+LE=
+PU=U/_
+PD=
+FC=!FS%.0f;
+SC=VS%.0f;
+UC=US%.0f;
+PM=
+CM=
+FD=U(MAXFREE) @/_
+HE=;:H A L0 ECN U/_P1;(SPEED)(FORCE)
+FO=(FEED)U0,0 @
+PG=
+XU=40
+YU=40
+FU=1
+BeginMacros
+Test_Area=;:H A L0 ECN U/_U/_U(MAXFREE)/_D(MAXFREE1)/_U/_U0,0/_U/_U(MAXFIXED)/_D(MAXFIXED1)/_U/_U0,0/_@/_
+Width_Test=;:H A L0 ECN U/_U/_U0,0/_U/_U(MAXFIXED)/_D(MAXFIXED1)/_U/_U0,0/_@/_
+Reset=!PG;
+EndMacros
+EndEmulation:

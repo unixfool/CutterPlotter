@@ -1,0 +1,39 @@
+;SProAML2 T3
+;of=0
+;cf=112
+;2015-10-12 - changed marks to triangle marks
+BeginSettings:
+(BRANDNAME): (MODELNAME)	DirectComPort		HPGL	(WIDTHMM)	0	0	0	0	0	0	0.00100000004749745	0.249999985098839	2	0	0	0	0	0	0	0	0	0	\\.\,<baud=38400 flow=cts/rts parity=n data=8 stop=1>	0	0	0	
+EndSettings:
+BeginPlotter:
+0	(BRANDNAME)	(MODELNAME)	(WIDTHMM)	0	0	HPGL	HPGL	0	0,0,0,0,0,	0,0,0,0,0,	0,0,0,0,0,	0	(CMDFLAGS)				JKARMS;IN;PA;PU0,0;	(Foison 25mm)<1 LW FB T L 25 HL 25 VL T R -25 HL 25 VL B L 25 HL -25 VL B R -25 HL -25 VL 0.25 LW T L -3 DX -2 DY 0.5 3 RE >	IN;PU0,0;	PU0,0;!PG;	PU%.0f,%.0f;	PU%.0f,%.0f;PD;PD%.0f,%.0f;	1	0	
+EndPlotter:
+BeginEmulation:
+EN=HPGL
+MR=0
+LR=0
+PR=0
+MC=PU%.0f,%.0f;
+LC=PD%.0f,%.0f;
+PC=PD%.0f,%.0f;
+LE=
+PU=PU;
+PD=PD;
+FC=
+SC=VS%.0f;
+UC=
+PM=
+CM=JK_SCAN=TB25,(X),(Y);CT1;JK_FAIL=TB24;
+FD=!PG;
+HE=IN;
+FO=!PG;
+PG=
+XU=40
+YU=40
+FU=1
+BeginMacros
+Test_Area=IN;PA;PU(MAXFREE);PD(MAXFREE1);PU0,0;PU(MAXFIXED);PD(MAXFIXED1);PU0,0;
+Width_Test=IN;PU;PU(MAXFIXED);PD(MAXFIXED1);PU0,0;
+Reset=!PG;
+EndMacros
+EndEmulation:

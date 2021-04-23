@@ -1,0 +1,43 @@
+;cf=2096
+BeginSettings:
+(BRANDNAME): (MODELNAME)	DirectComPort		HPGL	(WIDTHMM)	0	0	0	0	0	0	0.00100000004749745	0.300000011920929	1	0	0	0	0	0	0	0	0	0	\\.\COM3,<baud=38400 flow=cts/rts parity=n data=8 stop=1>	0	0	0		CUR=U_Disk				
+EndSettings:
+BeginPlotter:
+0	(BRANDNAME)	(MODELNAME)	(WIDTHMM)	0	0	HPGL	HPGL	0	0,0,0,0,0,	0,0,0,0,0,	0,0,0,0,0,	0	(CMDFLAGS)				JKARMS;IN;PA;PU0,0;	(20mmx1mm v2)< 0.1 LW FB T L -0.5 DX -0.5 DY 1 20.5 RE 20.5 1 RE T R 0.5 DX -0.5 DY -1 20.5 RE -20.5 1 RE B L -0.5 DX 0.5 DY 1 -20.5 RE 20.5 -1 RE B R 0.5 DX 0.5 DY -1 -20.5 RE -20.5 -1 RE >	IN;PU0,0;	PU0,0;PG;	PU%.0f,%.0f;	PU%.0f,%.0f;PD;PD%.0f,%.0f;	0	0	
+EndPlotter:
+BeginEmulation:
+EN=HPGL
+MR=0
+LR=0
+PR=0
+MC=PU%.0f,%.0f;
+LC=PD%.0f,%.0f;
+PC=PD%.0f,%.0f;
+LE=
+PU=PU;
+PD=PD;
+FC=FS%.0f;
+SC=VS%.0f;
+UC=
+PM=
+CM=JK_SCAN=TB25,(X),(Y);CT1;JK_FAIL=IN;PA;PU400,400;PG;
+FD=PG;
+HE=IN;CT1;
+FO=PG;
+PG=
+XU=40
+YU=40
+FU=1
+BeginMacros
+Test_Area=IN;PU;PA(MAXFREE);PD(MAXFREE1);PU0,0;PU(MAXFIXED);PD(MAXFIXED1);PU0,0;PG;
+Width_Test=IN;PU;PU(MAXFIXED);PD(MAXFIXED1);PU0,0;PG;
+Reset=PG;
+EndMacros
+EndEmulation:
+BeginPresetList
+Cut Mode=16,0,0,0,0,0.32,1,Drag Knife,Default Blade,
+Drawing (Pen)=16,0,0,0,0,0,0,Pen Tool,Pen,
+Fold lines - cardboard=16,0,0,0,0,0,0,Fold/Crease Tool,Fold lines,
+Thick Cut Mode=16,0,0,0,0,0.3,1,Drag Knife (60deg),Roland 60 degree blade,
+Thick Cut Mode=16,0,0,0,0,0.32,1,Drag Knife,Default Blade,
+EndPresetList

@@ -1,0 +1,38 @@
+;LY ARMS Text06_V2_manual
+;of=0
+;cf=52
+BeginSettings:
+(BRANDNAME): (MODELNAME)	DirectComPort		HPGL	(WIDTHMM)	90	8	6	0	0	0	0.00100000004749745	0.349999994039536	2	0	0	0	0	0	0	0	0	0	\\.\COM3,<baud=57600 flow=cts/rts parity=n data=8 stop=1>	0	0	0		
+EndSettings:
+BeginPlotter:
+0	(BRANDNAME)	(MODELNAME)	(WIDTHMM)	0	0	HPGL	HPGL	0	1,160,90,0,0,g	1,12,6,50,0,cm/s	1,12,6,50,0,cm/s	0	(CMDFLAGS)				JKARMS;IN;	0.15 LW T L FB 1 LW -5 DX -5 DY 2 2 RE T L 0.15 LW -5 HL 5 HL -5 VL 5 VL FB 0.15 LW -5 HL 5 HL -5 VL 5 VL 0.6 CIR FW 0.5 CIR T R FB -5 HL 5 HL -5 VL 5 VL 0.6 CIR FW 0.5 CIR B R FB -5 HL 5 HL -5 VL 5 VL 0.6 CIR FW 0.5 CIR B L FB -5 HL 5 HL -5 VL 5 VL 0.6 CIR FW 0.5 CIR >	IN;PA;U0,0;	@ 	U%.0f,%.0f;	U%.0f,%.0f;	0	0	
+EndPlotter:
+BeginEmulation:
+EN=TEST_T1
+MR=0
+LR=0
+PR=0
+MC=U%.0f,%.0f;
+LC=D%.0f,%.0f;
+PC=D%.0f,%.0f;
+LE=
+PU=U;
+PD=
+FC=!FS%.0f;
+SC=VS%.0f;
+UC=US%.0f;
+PM=
+CM=JK_SCAN=TB21,(X),(Y);JK_FAIL=U0,0;@JK_FLIP=1
+FD=U(MAXFREE) @/_
+HE=IN;PA;
+FO=@
+PG=
+XU=40
+YU=40
+FU=1
+BeginMacros
+Test_Area=;:H A L0 ECN U(MAXFREE);D(MAXFREE1);U0,0;U(MAXFIXED);D(MAXFIXED1);U0,0;@
+Width_Test=;:H A L0 ECN U;U0,0;U(MAXFIXED);D(MAXFIXED1);U0,0;@
+Reset=@
+EndMacros
+EndEmulation:

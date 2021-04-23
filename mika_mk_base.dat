@@ -1,0 +1,36 @@
+;of 96
+BeginSettings:
+(BRANDNAME): (MODELNAME)	DirectComPort		HPGL	(WIDTHMM)	0	0	0	0	0	0	0.00100000004749745	0.5	2	0	0	0	0	0	0	0	0	0	\\.\COM3,<baud=38400 flow=cts/rts parity=n data=8 stop=1>	0	0	0		
+EndSettings:
+BeginPlotter:
+0	(BRANDNAME)	(MODELNAME)	(WIDTHMM)	0	0	HPGL	HPGL	0	0,0,0,0,0,	0,0,0,0,0,	0,0,0,0,0,	0	(CMDFLAGS)				JKARMS;IN;	<JKMULTI>	IN;PU0,0;	PU0,0;PG;	PU%.0f,%.0f;	PU%.0f,%.0f;PD%.0f,%.0f;PU;	0	0	
+EndPlotter:
+BeginEmulation:
+EN=HPGL
+MR=0
+LR=0
+PR=0
+MC=PU%.0f,%.0f;
+LC=PD%.0f,%.0f;
+PC=PD%.0f,%.0f;
+LE=
+PU=PU;
+PD=PD;
+FC=
+SC=VS%.0f;
+UC=
+PM=
+CM=JK_SCAN=TB25,(X),(Y);CT1;JK_FAIL=IN;PU400,400;
+FD=!PG;
+HE=IN;PA;
+FO=!PG;
+PG=
+XU=40
+YU=40
+FU=1
+BeginMacros
+Test_Area=IN;PU(MAXFREE);PD(MAXFREE1);PD;PU0,0;PU(MAXFIXED);PD(MAXFIXED1);PU0,0;!PG;
+Width_Test=IN;PU(MAXFIXED);PD(MAXFIXED1);PU0,0;!PG;
+Reset=PG;
+EndMacros
+EndEmulation:

@@ -1,0 +1,36 @@
+;cf=215
+BeginSettings:
+(BRANDNAME): (MODELNAME)	DirectUsbPort		HPGL	(WIDTHMM)	90	8	6	0	0	0	0.00100000004749745	0.25	2	0	0	0	1	1	0	0	0	0	\\?\usb#vid_7447&pid_5419#5&38c098cc&0&7#{28d78fad-5a12-11d1-ae5b-0000f803a8c2}	0	0	0		
+EndSettings:
+BeginPlotter:
+0	(BRANDNAME)	(MODELNAME)	(WIDTHMM)	0	0	HPGL	HPGL	0	1,160,90,0,0,g	1,12,6,50,0,cm/s	1,12,6,50,0,cm/s	0	(CMDFLAGS)						;IN;PU0,0;BEGIN_SPOOL;	PU0,0;PG;	PU%.0f,%.0f;	PU%.0f,%.0f;PD%.0f,%.0f;	0	0	
+EndPlotter:
+BeginEmulation:
+EN=USC_MH
+MR=0
+LR=0
+PR=0
+MC=PU%.0f,%.0f;
+LC=PD%.0f,%.0f;
+PC=PD%.0f,%.0f;
+LE=
+PU=PU;
+PD=
+FC=!FS%.0f;
+SC=VS%.0f;
+UC=US%.0f;
+PM=
+CM=
+FD=U(MAXFREE) @/_
+HE=;IN;PU0,0;
+FO=PG;
+PG=
+XU=40
+YU=40
+FU=1
+BeginMacros
+Test_Area=;IN;PU(MAXFREE);PD(MAXFREE1)PU0,0;PU(MAXFIXED);PD(MAXFIXED1);PU0,0;PG;
+Width_Test=;IN;PU0,0;PU(MAXFIXED);PD(MAXFIXED1);PU0,0;PG;
+Reset=PG;
+EndMacros
+EndEmulation:
